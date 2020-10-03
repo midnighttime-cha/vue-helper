@@ -1,0 +1,270 @@
+{
+  "addressType": [
+    {
+      "value": 1,
+      "textTH": "ติดต่อได้",
+      "textEN": "Contact",
+      "textCN": "联系"
+    },
+    {
+      "value": 2,
+      "textTH": "ที่อยู่ปัจจุบัน",
+      "textEN": "Current Address",
+      "textCN": "地址"
+    },
+    {
+      "value": 3,
+      "textTH": "ที่อยู่ตามบัตรประชาชน",
+      "textEN": "Address at per idcard",
+      "textCN": "每个身份证的地址"
+    },
+    {
+      "value": 4,
+      "textTH": "ที่อยู่เสียภาษี",
+      "textEN": "Address Tax",
+      "textCN": "地址稅"
+    }
+  ],
+  "unitType": [
+    {
+      "value": "DATETIME",
+      "textTH": "วันเวลา",
+      "textEN": "Datetime",
+      "textCN": "Datetime"
+    },
+    {
+      "value": "PRODUCT",
+      "textTH": "สินค้า",
+      "textEN": "Product",
+      "textCN": "Product"
+    },
+    {
+      "value": "SIZE",
+      "textTH": "ขนาด",
+      "textEN": "Size",
+      "textCN": "Size"
+    },
+    {
+      "value": "WEIGHT",
+      "textTH": "น้ำหนัก",
+      "textEN": "Weight",
+      "textCN": "Weight"
+    }
+  ],
+  "companyBranchType": [
+    {
+      "value": "HEADQ",
+      "textTH": "สำนักงานใหญ่",
+      "textEN": "Headquarter",
+      "textCN": "總公司",
+      "color": "primary"
+    },
+    {
+      "value": "BRANCH",
+      "textTH": "สำนักงานย่อย",
+      "textEN": "Branch",
+      "textCN": "科",
+      "color": "info"
+    }
+  ],
+  "partnerType": [
+    {
+      "value": "COMPANY",
+      "textTH": "บริษัท",
+      "textEN": "Company",
+      "textCN": "公司",
+      "color": "pink lighten-2",
+      "icon": "mdi-domain"
+    },
+    {
+      "value": "STORE",
+      "textTH": "ห้างร้าน",
+      "textEN": "Shop",
+      "textCN": "店",
+      "color": "red lighten-2",
+      "icon": "mdi-store"
+    },
+    {
+      "value": "PERSONAL",
+      "textTH": "บุคคล",
+      "textEN": "Personal",
+      "textCN": "個人",
+      "color": "info",
+      "icon": "mdi-account"
+    }
+  ],
+  "partnerLevel": [
+    {
+      "value": 1,
+      "textTH": "เริ่มต้น",
+      "textEN": "Beginner",
+      "textCN": "初學者",
+      "rating": 1,
+      "color": "grey"
+    },
+    {
+      "value": 2,
+      "textTH": "ปกติ",
+      "textEN": "Normal",
+      "textCN": "正常",
+      "rating": 2,
+      "color": "green"
+    },
+    {
+      "value": 3,
+      "textTH": "ชั้นดี",
+      "textEN": "Good",
+      "textCN": "好",
+      "rating": 3,
+      "color": "purple lighten-2"
+    },
+    {
+      "value": 4,
+      "textTH": "ชั้นดีมาก",
+      "textEN": "Very Good",
+      "textCN": "很好",
+      "rating": 4,
+      "color": "orange"
+    },
+    {
+      "value": 5,
+      "textTH": "ชั้นดีเยี่ยม",
+      "textEN": "Excellent",
+      "textCN": "優秀的",
+      "rating": 5,
+      "color": "red"
+    }
+  ],
+  "userType": [
+    {
+      "value": "DV",
+      "textTH": "ผู้พัฒนาระบบ",
+      "textEN": "Developer",
+      "textCN": "開發者"
+    },
+    {
+      "value": "SA",
+      "textTH": "ผู้ดูแลระบบสูงสุด",
+      "textEN": "Super Administrator",
+      "textCN": "超級管理員"
+    },
+    {
+      "value": "AM",
+      "textTH": "ผู้ดูแลระบบ",
+      "textEN": "Administrator",
+      "textCN": "管理員"
+    },
+    {
+      "value": "US",
+      "textTH": "ผู้ใช้งานระบบ",
+      "textEN": "User",
+      "textCN": "用戶"
+    }
+  ],
+  "thaimonth": [
+    "มกรา",
+    "กุมภา",
+    "มีนา",
+    "เมษา",
+    "พฤษภา",
+    "มิถุนา",
+    "กรกฎา",
+    "สิงหา",
+    "กันยา",
+    "ตุลา",
+    "พฤศจิกา",
+    "ธันวา"
+  ],
+  "monthFullTh": [
+    "มกราคม",
+    "กุมภาพันธ์",
+    "มีนาคม",
+    "เมษายน",
+    "พฤษภาคม",
+    "มิถุนายน",
+    "กรกฎาคม",
+    "สิงหาคม",
+    "กันยายน",
+    "ตุลาคม",
+    "พฤศจิกายน",
+    "ธันวาคม"
+  ],
+  "monthShortTh": [
+    "ม.ค.",
+    "ก.พ.",
+    "มี.ค.",
+    "เม.ย.",
+    "พ.ค.",
+    "มิ.ย.",
+    "ก.ค.",
+    "ส.ค.",
+    "ก.ย.",
+    "ต.ค.",
+    "พ.ย.",
+    "ธ.ค."
+  ],
+  "monthFullEn": [
+    "January",
+    "February",
+    "March",
+    "April",
+    "May",
+    "June",
+    "July",
+    "August",
+    "September",
+    "October",
+    "November",
+    "December"
+  ],
+  "monthShortEn": [
+    "Jan.",
+    "Feb.",
+    "Mar.",
+    "Apr.",
+    "May.",
+    "Jun.",
+    "Jul.",
+    "Aug.",
+    "Sep.",
+    "Oct.",
+    "Nov.",
+    "Dec."
+  ],
+  "weekdayFullTh": [
+    "อาทติย",
+    "จันทร",
+    "องัคาร",
+    "พุธ",
+    "พฤหสั บดี",
+    "ศกุร",
+    "เสาร"
+  ],
+  "weekdayShortTh": [
+    "อ.",
+    "จ.",
+    "อ.",
+    "พ.",
+    "พฤ.",
+    "ศ.",
+    "ส."
+  ],
+  "weekdayFullEn": [
+    "Sunday",
+    "Monday",
+    "Tuesday",
+    "Wednesday",
+    "Thursday",
+    "Friday",
+    "Saturday"
+  ],
+  "weekdayShortEn": [
+    "Sun.",
+    "Mon.",
+    "Tue.",
+    "Wed.",
+    "Thu.",
+    "Fri.",
+    "Sat."
+  ]
+}
