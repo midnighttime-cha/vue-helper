@@ -22,38 +22,4 @@ export default {
         "E-mail must be valid"
     ],
   },
-  addressType: (lang) => {
-    const items = [
-      {
-        code: 1,
-        title: {
-          TH: "ติดต่อได้",
-          EN: "Contact",
-          CN: "联系"
-        }
-      },
-      {
-        code: 2,
-        title: {
-          TH: "ที่อยู่ปัจจุบัน",
-          EN: "Current Address",
-          CN: "地址"
-        }
-      },
-      {
-        code: 3,
-        title: {
-          TH: "ที่อยู่ตามบัตรประชาชน",
-          EN: "Address at per idcard",
-          CN: "每个身份证的地址"
-        }
-      }
-    ];
-    return items.map(item => {
-      return {
-        value: item.code,
-        text: item.title[`${lang}`]
-      };
-    });
-  }
 }

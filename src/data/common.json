@@ -1,0 +1,635 @@
+{
+  "addressType": [
+    {
+      "value": 1,
+      "textTH": "ติดต่อได้",
+      "textEN": "Contact",
+      "textCN": "联系"
+    },
+    {
+      "value": 2,
+      "textTH": "ที่อยู่ปัจจุบัน",
+      "textEN": "Current Address",
+      "textCN": "地址"
+    },
+    {
+      "value": 3,
+      "textTH": "ที่อยู่ตามบัตรประชาชน",
+      "textEN": "Address at per idcard",
+      "textCN": "每个身份证的地址"
+    },
+    {
+      "value": 4,
+      "textTH": "ที่อยู่เสียภาษี",
+      "textEN": "Address Tax",
+      "textCN": "地址稅"
+    }
+  ],
+  "unitType": [
+    {
+      "value": "DATETIME",
+      "textTH": "วันเวลา",
+      "textEN": "Datetime",
+      "textCN": "Datetime"
+    },
+    {
+      "value": "PRODUCT",
+      "textTH": "สินค้า",
+      "textEN": "Product",
+      "textCN": "Product"
+    },
+    {
+      "value": "SIZE",
+      "textTH": "ขนาด",
+      "textEN": "Size",
+      "textCN": "Size"
+    },
+    {
+      "value": "WEIGHT",
+      "textTH": "น้ำหนัก",
+      "textEN": "Weight",
+      "textCN": "Weight"
+    }
+  ],
+  "companyBranchType": [
+    {
+      "value": "HEADQ",
+      "textTH": "สำนักงานใหญ่",
+      "textEN": "Headquarter",
+      "textCN": "總公司",
+      "color": "primary"
+    },
+    {
+      "value": "BRANCH",
+      "textTH": "สำนักงานย่อย",
+      "textEN": "Branch",
+      "textCN": "科",
+      "color": "info"
+    }
+  ],
+  "user": {
+    "partnerType": [
+      {
+        "value": "COMPANY",
+        "textTH": "บริษัท",
+        "textEN": "Company",
+        "textCN": "公司",
+        "color": "pink lighten-2",
+        "icon": "mdi-domain"
+      },
+      {
+        "value": "STORE",
+        "textTH": "ห้างร้าน",
+        "textEN": "Shop",
+        "textCN": "店",
+        "color": "red lighten-2",
+        "icon": "mdi-store"
+      },
+      {
+        "value": "PERSONAL",
+        "textTH": "บุคคล",
+        "textEN": "Personal",
+        "textCN": "個人",
+        "color": "info",
+        "icon": "mdi-account"
+      }
+    ],
+    "partnerLevel": [
+      {
+        "value": 1,
+        "textTH": "เริ่มต้น",
+        "textEN": "Beginner",
+        "textCN": "初學者",
+        "rating": 1,
+        "color": "grey"
+      },
+      {
+        "value": 2,
+        "textTH": "ปกติ",
+        "textEN": "Normal",
+        "textCN": "正常",
+        "rating": 2,
+        "color": "green"
+      },
+      {
+        "value": 3,
+        "textTH": "ชั้นดี",
+        "textEN": "Good",
+        "textCN": "好",
+        "rating": 3,
+        "color": "purple lighten-2"
+      },
+      {
+        "value": 4,
+        "textTH": "ชั้นดีมาก",
+        "textEN": "Very Good",
+        "textCN": "很好",
+        "rating": 4,
+        "color": "orange"
+      },
+      {
+        "value": 5,
+        "textTH": "ชั้นดีเยี่ยม",
+        "textEN": "Excellent",
+        "textCN": "優秀的",
+        "rating": 5,
+        "color": "red"
+      }
+    ],
+    "userType": [
+      {
+        "value": "DV",
+        "textTH": "ผู้พัฒนาระบบ",
+        "textEN": "Developer",
+        "textCN": "開發者"
+      },
+      {
+        "value": "SA",
+        "textTH": "ผู้ดูแลระบบสูงสุด",
+        "textEN": "Super Administrator",
+        "textCN": "超級管理員"
+      },
+      {
+        "value": "AM",
+        "textTH": "ผู้ดูแลระบบ",
+        "textEN": "Administrator",
+        "textCN": "管理員"
+      },
+      {
+        "value": "US",
+        "textTH": "ผู้ใช้งานระบบ",
+        "textEN": "User",
+        "textCN": "用戶"
+      }
+    ]
+  },
+  "date": {
+    "thaimonTH": [
+      "มกรา",
+      "กุมภา",
+      "มีนา",
+      "เมษา",
+      "พฤษภา",
+      "มิถุนา",
+      "กรกฎา",
+      "สิงหา",
+      "กันยา",
+      "ตุลา",
+      "พฤศจิกา",
+      "ธันวา"
+    ],
+    "monthFullTH": [
+      "มกราคม",
+      "กุมภาพันธ์",
+      "มีนาคม",
+      "เมษายน",
+      "พฤษภาคม",
+      "มิถุนายน",
+      "กรกฎาคม",
+      "สิงหาคม",
+      "กันยายน",
+      "ตุลาคม",
+      "พฤศจิกายน",
+      "ธันวาคม"
+    ],
+    "monthShortTH": [
+      "ม.ค.",
+      "ก.พ.",
+      "มี.ค.",
+      "เม.ย.",
+      "พ.ค.",
+      "มิ.ย.",
+      "ก.ค.",
+      "ส.ค.",
+      "ก.ย.",
+      "ต.ค.",
+      "พ.ย.",
+      "ธ.ค."
+    ],
+    "monthFullEN": [
+      "January",
+      "February",
+      "March",
+      "April",
+      "May",
+      "June",
+      "July",
+      "August",
+      "September",
+      "October",
+      "November",
+      "December"
+    ],
+    "monthShortEN": [
+      "Jan.",
+      "Feb.",
+      "Mar.",
+      "Apr.",
+      "May.",
+      "Jun.",
+      "Jul.",
+      "Aug.",
+      "Sep.",
+      "Oct.",
+      "Nov.",
+      "Dec."
+    ],
+    "weekdayFullTH": [
+      "อาทติย",
+      "จันทร",
+      "องัคาร",
+      "พุธ",
+      "พฤหสั บดี",
+      "ศกุร",
+      "เสาร"
+    ],
+    "weekdayShortTH": [
+      "อ.",
+      "จ.",
+      "อ.",
+      "พ.",
+      "พฤ.",
+      "ศ.",
+      "ส."
+    ],
+    "weekdayFullEN": [
+      "Sunday",
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday",
+      "Saturday"
+    ],
+    "weekdayShortEN": [
+      "Sun.",
+      "Mon.",
+      "Tue.",
+      "Wed.",
+      "Thu.",
+      "Fri.",
+      "Sat."
+    ]
+  },
+  "btn": [
+    {
+      "number": 0,
+      "title": {
+        "TH": "เพิ่ม",
+        "EN": "Add",
+        "CN": "Add"
+      },
+      "icon": "mdi-plus-circle",
+      "suffix": "",
+      "prefix": "",
+      "color": "green"
+    },
+    {
+      "number": 1,
+      "title": {
+        "TH": "แก้ไข",
+        "EN": "Edit",
+        "CN": "Edit"
+      },
+      "icon": "mdi-pencil",
+      "suffix": "",
+      "prefix": "",
+      "color": "orange"
+    },
+    {
+      "number": 2,
+      "title": {
+        "TH": "เรียกดูข้อมูล",
+        "EN": "View Data",
+        "CN": "View Data"
+      },
+      "icon": "mdi-magnify",
+      "suffix": "",
+      "prefix": "",
+      "color": "cyan"
+    },
+    {
+      "number": 3,
+      "title": {
+        "TH": "คัดลอกข้อมูล",
+        "EN": "Copy Data",
+        "CN": "Copy Data"
+      },
+      "icon": "mdi-content-copy",
+      "suffix": "",
+      "prefix": "",
+      "color": "purple"
+    },
+    {
+      "number": 4,
+      "title": {
+        "TH": "ลบข้อมูล",
+        "EN": "Delete Data",
+        "CN": "Delete Data"
+      },
+      "icon": "mdi-trash-can-outline",
+      "suffix": "",
+      "prefix": "",
+      "color": "red"
+    },
+    {
+      "number": 5,
+      "title": {
+        "TH": "บันทึก",
+        "EN": "Save",
+        "CN": "Save"
+      },
+      "icon": "mdi-content-save-edit",
+      "suffix": "",
+      "prefix": "",
+      "color": "primary"
+    },
+    {
+      "number": 6,
+      "title": {
+        "TH": "ยกเลิก",
+        "EN": "Cancel",
+        "CN": "Cancel"
+      },
+      "icon": "mdi-close",
+      "suffix": "",
+      "prefix": "",
+      "color": "grey"
+    },
+    {
+      "number": 7,
+      "title": {
+        "TH": "ใช้งาน",
+        "EN": "Is Active",
+        "CN": "Is Active"
+      },
+      "icon": "mdi-eye",
+      "suffix": "",
+      "prefix": "",
+      "color": "green"
+    },
+    {
+      "number": 8,
+      "title": {
+        "TH": "ไม่ใช้งาน",
+        "EN": "UnActive",
+        "CN": "UnActive"
+      },
+      "icon": "mdi-eye-off",
+      "suffix": "",
+      "prefix": "",
+      "color": "grey"
+    },
+    {
+      "number": 9,
+      "title": {
+        "TH": "เพิ่มที่อยู่",
+        "EN": "Add Address",
+        "CN": "Add Address"
+      },
+      "icon": "mdi-plus",
+      "suffix": "",
+      "prefix": "",
+      "color": "green"
+    },
+    {
+      "number": 10,
+      "title": {
+        "TH": "เพิ่มการศึกษา",
+        "EN": "Add Education",
+        "CN": "Add Education"
+      },
+      "icon": "mdi-plus-circle",
+      "suffix": "",
+      "prefix": "",
+      "color": "green"
+    },
+    {
+      "number": 11,
+      "title": {
+        "TH": "เพิ่มประสบการณ์",
+        "EN": "Add Experience",
+        "CN": "Add Experience"
+      },
+      "icon": "mdi-plus-circle",
+      "suffix": "",
+      "prefix": "",
+      "color": "green"
+    },
+    {
+      "number": 12,
+      "title": {
+        "TH": "เพิ่มเมนูย่อย",
+        "EN": "Add Submenu",
+        "CN": "Add Submenu"
+      },
+      "icon": "mdi-link-box-variant-outline",
+      "suffix": "",
+      "prefix": "",
+      "color": "green"
+    },
+    {
+      "number": 13,
+      "title": {
+        "TH": "เพิ่มรายการ",
+        "EN": "ADD List",
+        "CN": "ADD List"
+      },
+      "icon": "mdi-plus-circle",
+      "suffix": "",
+      "prefix": "",
+      "color": "green"
+    }
+  ],
+  "tabs": [
+    {
+      "number": 0,
+      "title": {
+        "TH": "ข้อมูล",
+        "EN": "Information",
+        "CN": "Information"
+      },
+      "icon": "mdi-information",
+      "suffix": "",
+      "prefix": ""
+    },
+    {
+      "number": 1,
+      "title": {
+        "TH": "ที่อยู่",
+        "EN": "Address",
+        "CN": "Address"
+      },
+      "icon": "mdi-map-marker",
+      "suffix": "",
+      "prefix": ""
+    },
+    {
+      "number": 2,
+      "title": {
+        "TH": "การศึกษา",
+        "EN": "Education",
+        "CN": "教育"
+      },
+      "icon": "fas fa-graduation-cap",
+      "suffix": "",
+      "prefix": ""
+    },
+    {
+      "number": 3,
+      "title": {
+        "TH": "ประสบการณ์",
+        "EN": "Experience",
+        "CN": "經驗"
+      },
+      "icon": "fas fa-flask",
+      "suffix": "",
+      "prefix": ""
+    },
+    {
+      "number": 4,
+      "title": {
+        "TH": "วันว่าง",
+        "EN": "Available Day",
+        "CN": "可用天數"
+      },
+      "icon": "mdi-calendar-today",
+      "suffix": "",
+      "prefix": ""
+    },
+    {
+      "number": 5,
+      "title": {
+        "TH": "เมนูย่อย",
+        "EN": "Sub Menu",
+        "CN": "Sub Menu"
+      },
+      "icon": "mdi-link-box-variant-outline",
+      "suffix": "",
+      "prefix": ""
+    },
+    {
+      "number": 6,
+      "title": {
+        "TH": "รายการการทำสปา",
+        "EN": "Spa List",
+        "CN": "Spa List"
+      },
+      "icon": "mdi-format-list-text",
+      "suffix": "",
+      "prefix": ""
+    },
+    {
+      "number": 7,
+      "title": {
+        "TH": "รายละเอียด",
+        "EN": "Detail",
+        "CN": "詳情"
+      },
+      "icon": "mdi-table-of-contents",
+      "suffix": "",
+      "prefix": ""
+    },
+    {
+      "number": 8,
+      "title": {
+        "TH": "เนื้อหา",
+        "EN": "Content",
+        "CN": "內容"
+      },
+      "icon": "mdi-table-of-contents",
+      "suffix": "",
+      "prefix": ""
+    },
+    {
+      "number": 9,
+      "title": {
+        "TH": "สืทธิ์การใช้งาน",
+        "EN": "Permission",
+        "CN": "允許"
+      },
+      "icon": "mdi-shield-check",
+      "suffix": "",
+      "prefix": ""
+    }
+  ],
+  "table": [
+    {
+      "number": 0,
+      "title": {
+        "TH": "ใช้งาน",
+        "EN": "Is Active",
+        "CN": "Is Active"
+      },
+      "icon": "mdi-eye",
+      "suffix": "",
+      "prefix": ""
+    },
+    {
+      "number": 1,
+      "title": {
+        "TH": "จัดการ",
+        "EN": "Action",
+        "CN": "Action"
+      },
+      "icon": "mdi-eye",
+      "suffix": "",
+      "prefix": ""
+    },
+    {
+      "number": 2,
+      "title": {
+        "TH": "แสดง",
+        "EN": "Display",
+        "CN": "Display"
+      },
+      "icon": "",
+      "suffix": "",
+      "prefix": ""
+    },
+    {
+      "number": 3,
+      "title": {
+        "TH": "ทั้งหมด",
+        "EN": "Total",
+        "CN": "Total"
+      },
+      "icon": "",
+      "suffix": "",
+      "prefix": ""
+    },
+    {
+      "number": 4,
+      "title": {
+        "TH": "จาก",
+        "EN": "From",
+        "CN": "From"
+      },
+      "icon": "",
+      "suffix": "",
+      "prefix": ""
+    },
+    {
+      "number": 5,
+      "title": {
+        "TH": "หน้า",
+        "EN": "Page",
+        "CN": "Page"
+      },
+      "icon": "",
+      "suffix": "",
+      "prefix": ""
+    },
+    {
+      "number": 6,
+      "title": {
+        "TH": "จาก",
+        "EN": "Of",
+        "CN": "Of"
+      },
+      "icon": "",
+      "suffix": "",
+      "prefix": ""
+    }
+  ]
+}

@@ -1,0 +1,228 @@
+{
+  "printerPaperType": [
+    {
+      "value": "P",
+      "text": "Portrait"
+    },
+    {
+      "value": "L",
+      "text": "Landscape"
+    }
+  ],
+  "printerPaperSize": [
+    {
+      "value": "A4",
+      "text": "A4 = 21cm X 29.7cm"
+    },
+    {
+      "value": "A5",
+      "text": "A5 = 14.8cm x 21cm"
+    }
+  ],
+  "printerOrExport": [
+    {
+      "value": "PRINT",
+      "text": "Print"
+    },
+    {
+      "value": "IMAGE",
+      "text": "Image: (*.jpg)"
+    },
+    {
+      "value": "PDF",
+      "text": "PDF"
+    },
+    {
+      "value": "EXCEL",
+      "text": "Excel"
+    }
+  ],
+  "contentType": [
+    {
+      "value": "PROMOTION",
+      "text": {
+        "TH": "Promotion",
+        "EN": "Promotion",
+        "CN": "Promotion"
+      }
+    },
+    {
+      "value": "ABOUT_US",
+      "text": {
+        "TH": "About Us",
+        "EN": "About Us",
+        "CN": "About Us"
+      }
+    },
+    {
+      "value": "IVF_PROCESS",
+      "text": {
+        "TH": "IVF Process",
+        "EN": "IVF Process",
+        "CN": "IVF Process"
+      }
+    },
+    {
+      "value": "IVF_ALL_PROGRAM",
+      "text": {
+        "TH": "IVF All Program",
+        "EN": "IVF All Program",
+        "CN": "IVF All Program"
+      }
+    },
+    {
+      "value": "IVF_STEP",
+      "text": {
+        "TH": "Step IVF",
+        "EN": "Step IVF",
+        "CN": "Step IVF"
+      }
+    },
+    {
+      "value": "IVF_PREPARE",
+      "text": {
+        "TH": "Prepare",
+        "EN": "Prepare",
+        "CN": "Prepare"
+      }
+    },
+    {
+      "value": "IVF_INPROGRESS",
+      "text": {
+        "TH": "In Progress",
+        "EN": "In Progress",
+        "CN": "In Progress"
+      }
+    },
+    {
+      "value": "IVF_SUCCESS",
+      "text": {
+        "TH": "IVF Successfully",
+        "EN": "IVF Successfully",
+        "CN": "IVF Successfully"
+      }
+    }
+  ],
+  "newsBlogTypes": [
+    {
+      "value": "NEWS",
+      "text": {
+        "TH": "ข่าวสาร และกิจกรรม",
+        "EN": "News Events",
+        "CN": "News Events"
+      }
+    },
+    {
+      "value": "BLOG",
+      "text": {
+        "TH": "Blog",
+        "EN": "Blog",
+        "CN": "Blog"
+      }
+    }
+  ],
+  "packageListType": [
+    {
+      "value": "HOSPITAL",
+      "title": {
+        "TH": "โรงพยาบาล",
+        "EN": "Hospital",
+        "CN": "Hospital"
+      }
+    },
+    {
+      "value": "DOCTOR",
+      "title": {
+        "TH": "หมอ",
+        "EN": "Doctor",
+        "CN": "Doctor"
+      }
+    },
+    {
+      "value": "HOTEL",
+      "title": {
+        "TH": "โรงแรม",
+        "EN": "Hotel",
+        "CN": "Hotel"
+      }
+    },
+    {
+      "value": "HOTEL_RESERVE",
+      "title": {
+        "TH": "โรงแรมสำรอง",
+        "EN": "Hotel Reseve",
+        "CN": "Hotel Reseve"
+      }
+    },
+    {
+      "value": "SPA",
+      "title": {
+        "TH": "สปา",
+        "EN": "Spa",
+        "CN": "Spa"
+      }
+    },
+    {
+      "value": "RESTAURANT",
+      "title": {
+        "TH": "ร้านอาหาร",
+        "EN": "Restaurant",
+        "CN": "Restaurant"
+      }
+    },
+    {
+      "value": "TRANSPORT",
+      "title": {
+        "TH": "ขนส่ง",
+        "EN": "Transport",
+        "CN": "Transport"
+      }
+    },
+    {
+      "value": "OTHER",
+      "title": {
+        "TH": "สินค้าบริการอื่นๆ",
+        "EN": "Other Product",
+        "CN": "Other Product"
+      }
+    }
+  ],
+  "userTypes": [
+    {
+      "value": "DV",
+      "title": {
+        "TH": "นักพัฒนาระบบ",
+        "EN": "Developer",
+        "CN": "Developer"
+      },
+      "level": 1
+    },
+    {
+      "value": "SA",
+      "title": {
+        "TH": "ผู้ดูแลระบบสูงสุด",
+        "EN": "Super Administrator",
+        "CN": "Super Administrator"
+      },
+      "level": 2
+    },
+    {
+      "value": "AM",
+      "title": {
+        "TH": "ผู้ดูแลระบบ",
+        "EN": "Administrator",
+        "CN": "Administrator"
+      },
+      "level": 3
+    },
+    {
+      "value": "US",
+      "title": {
+        "TH": "ผู้ใช้งานทั่วไป",
+        "EN": "User",
+        "CN": "User"
+      },
+      "level": 4
+    }
+  ]
+}

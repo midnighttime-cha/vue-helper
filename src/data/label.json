@@ -1,0 +1,4002 @@
+{
+  "hospitals": [
+    {
+      "number": 0,
+      "title": {
+        "TH": "โรงพยาบาล",
+        "EN": "Hospital",
+        "CN": "Hospital"
+      },
+      "icon": "mdi-hospital-building",
+      "suffix": "",
+      "prefix": ""
+    },
+    {
+      "number": 1,
+      "title": {
+        "TH": "รูปภาพ",
+        "EN": "Image",
+        "CN": "Image"
+      },
+      "icon": "mdi-file-image",
+      "suffix": "",
+      "prefix": ""
+    },
+    {
+      "number": 2,
+      "title": {
+        "TH": "รหัส",
+        "EN": "Code",
+        "CN": "Code"
+      },
+      "icon": "mdi-qrcode-scan",
+      "suffix": "",
+      "prefix": ""
+    },
+    {
+      "number": 3,
+      "title": {
+        "TH": "ความนิยม",
+        "EN": "Rating",
+        "CN": "Rating"
+      },
+      "icon": "mdi-star",
+      "suffix": "",
+      "prefix": ""
+    },
+    {
+      "number": 4,
+      "title": {
+        "TH": "ชื่อโรงพยาบาล (TH)",
+        "EN": "Hospital Name (TH)",
+        "CN": "Hospital Name (TH)"
+      },
+      "icon": "mdi-text-recognition",
+      "suffix": "th",
+      "prefix": ""
+    },
+    {
+      "number": 5,
+      "title": {
+        "TH": "ชื่อโรงพยาบาล (EN)",
+        "EN": "Hospital Name (EN)",
+        "CN": "Hospital Name (EN)"
+      },
+      "icon": "mdi-text-recognition",
+      "suffix": "gb",
+      "prefix": ""
+    },
+    {
+      "number": 6,
+      "title": {
+        "TH": "ชื่อโรงพยาบาล (CN)",
+        "EN": "Hospital Name (CN)",
+        "CN": "Hospital Name (CN)"
+      },
+      "icon": "mdi-text-recognition",
+      "suffix": "cn",
+      "prefix": ""
+    },
+    {
+      "number": 7,
+      "title": {
+        "TH": "บริษัท",
+        "EN": "Company",
+        "CN": "Company"
+      },
+      "icon": "mdi-domain",
+      "suffix": "",
+      "prefix": ""
+    },
+    {
+      "number": 8,
+      "title": {
+        "TH": "หน่วยธุรกิจ",
+        "EN": "Business Unit",
+        "CN": "業務部"
+      },
+      "icon": "mdi-google-my-business",
+      "suffix": "",
+      "prefix": ""
+    },
+    {
+      "number": 9,
+      "title": {
+        "TH": "รายละเอียด (TH)",
+        "EN": "Detail (TH)",
+        "CN": "Detail (TH)"
+      },
+      "icon": "mdi-table-of-contents",
+      "suffix": "th",
+      "prefix": ""
+    },
+    {
+      "number": 10,
+      "title": {
+        "TH": "รายละเอียด (EN)",
+        "EN": "Detail (EN)",
+        "CN": "Detail (EN)"
+      },
+      "icon": "mdi-table-of-contents",
+      "suffix": "gb",
+      "prefix": ""
+    },
+    {
+      "number": 11,
+      "title": {
+        "TH": "รายละเอียด (CN)",
+        "EN": "Detail (CN)",
+        "CN": "Detail (CN)"
+      },
+      "icon": "mdi-table-of-contents",
+      "suffix": "cn",
+      "prefix": ""
+    },
+    {
+      "number": 12,
+      "title": {
+        "TH": "ภาค",
+        "EN": "Geography",
+        "CN": "地理"
+      },
+      "icon": "mdi-table-of-contents",
+      "suffix": "cn",
+      "prefix": ""
+    },
+    {
+      "number": 13,
+      "title": {
+        "TH": "จังหวัด",
+        "EN": "Province",
+        "CN": "省"
+      },
+      "icon": "mdi-table-of-contents",
+      "suffix": "cn",
+      "prefix": ""
+    }
+  ],
+  "doctors": [
+    {
+      "number": 0,
+      "title": {
+        "TH": "หมอ",
+        "EN": "Doctor",
+        "CN": "Doctor"
+      },
+      "icon": "mdi-doctor",
+      "suffix": "",
+      "prefix": ""
+    },
+    {
+      "number": 1,
+      "title": {
+        "TH": "รูปภาพ",
+        "EN": "Image",
+        "CN": "Image"
+      },
+      "icon": "mdi-file-image",
+      "suffix": "",
+      "prefix": ""
+    },
+    {
+      "number": 2,
+      "title": {
+        "TH": "รหัส",
+        "EN": "Code",
+        "CN": "Code"
+      },
+      "icon": "mdi-qrcode-scan",
+      "suffix": "",
+      "prefix": ""
+    },
+    {
+      "number": 3,
+      "title": {
+        "TH": "ความนิยม",
+        "EN": "Rating",
+        "CN": "Rating"
+      },
+      "icon": "mdi-star",
+      "suffix": "",
+      "prefix": ""
+    },
+    {
+      "number": 4,
+      "title": {
+        "TH": "ชื่อหมอ (TH)",
+        "EN": "Doctor First Name (TH)",
+        "CN": "名字 (TH)"
+      },
+      "icon": "mdi-text-recognition",
+      "suffix": "th",
+      "prefix": ""
+    },
+    {
+      "number": 5,
+      "title": {
+        "TH": "ชื่อหมอ (EN)",
+        "EN": "Doctor First Name (EN)",
+        "CN": "名字 (EN)"
+      },
+      "icon": "mdi-text-recognition",
+      "suffix": "gb",
+      "prefix": ""
+    },
+    {
+      "number": 6,
+      "title": {
+        "TH": "ชื่อหมอ (CN)",
+        "EN": "Doctor First Name (CN)",
+        "CN": "名字 (CN)"
+      },
+      "icon": "mdi-text-recognition",
+      "suffix": "cn",
+      "prefix": ""
+    },
+    {
+      "number": 7,
+      "title": {
+        "TH": "นามสกุลหมอ (TH)",
+        "EN": "Doctor Last Name (TH)",
+        "CN": "姓 (TH)"
+      },
+      "icon": "mdi-text-recognition",
+      "suffix": "th",
+      "prefix": ""
+    },
+    {
+      "number": 8,
+      "title": {
+        "TH": "นามสกุลหมอ (EN)",
+        "EN": "Doctor Last Name (EN)",
+        "CN": "姓 (EN)"
+      },
+      "icon": "mdi-text-recognition",
+      "suffix": "gb",
+      "prefix": ""
+    },
+    {
+      "number": 9,
+      "title": {
+        "TH": "นามสกุลหมอ (CN)",
+        "EN": "Doctor Last Name (CN)",
+        "CN": "姓 (CN)"
+      },
+      "icon": "mdi-text-recognition",
+      "suffix": "cn",
+      "prefix": ""
+    },
+    {
+      "number": 10,
+      "title": {
+        "TH": "ตำแหน่ง",
+        "EN": "Position",
+        "CN": "位置"
+      },
+      "icon": "mdi-music-note-whole-dotted",
+      "suffix": "th",
+      "prefix": ""
+    },
+    {
+      "number": 11,
+      "title": {
+        "TH": "โรงพยาบาล",
+        "EN": "Hospital",
+        "CN": "Hospital"
+      },
+      "icon": "mdi-hospital-building",
+      "suffix": "",
+      "prefix": ""
+    },
+    {
+      "number": 12,
+      "title": {
+        "TH": "ข้อความจากหมอ",
+        "EN": "Message from Doctor",
+        "CN": "醫生的話"
+      },
+      "icon": "mdi-message-bulleted",
+      "suffix": "",
+      "prefix": ""
+    },
+    {
+      "number": 13,
+      "title": {
+        "TH": "บุคลิกภาพ",
+        "EN": "Personality",
+        "CN": "個性"
+      },
+      "icon": "mdi-account-alert",
+      "suffix": "",
+      "prefix": ""
+    },
+    {
+      "number": 14,
+      "title": {
+        "TH": "การศึกษา",
+        "EN": "Education",
+        "CN": "教育"
+      },
+      "icon": "fas fa-graduation-cap",
+      "suffix": "",
+      "prefix": ""
+    },
+    {
+      "number": 15,
+      "title": {
+        "TH": "ประสบการณ์ทำงาน",
+        "EN": "Experience",
+        "CN": "經驗"
+      },
+      "icon": "fas fa-flask",
+      "suffix": "",
+      "prefix": ""
+    },
+    {
+      "number": 16,
+      "title": {
+        "TH": "ปี",
+        "EN": "Year",
+        "CN": "經驗"
+      },
+      "icon": "mdi-circle-medium",
+      "suffix": "",
+      "prefix": ""
+    },
+    {
+      "number": 17,
+      "title": {
+        "TH": "ถึงปี",
+        "EN": "To",
+        "CN": "To"
+      },
+      "icon": "mdi-circle-medium",
+      "suffix": "",
+      "prefix": ""
+    },
+    {
+      "number": 18,
+      "title": {
+        "TH": "ระดับการศึกษา",
+        "EN": "Level",
+        "CN": "水平"
+      },
+      "icon": "mdi-circle-medium",
+      "suffix": "",
+      "prefix": ""
+    },
+    {
+      "number": 19,
+      "title": {
+        "TH": "สถานศึกษา",
+        "EN": "University",
+        "CN": "大學"
+      },
+      "icon": "mdi-circle-medium",
+      "suffix": "",
+      "prefix": ""
+    },
+    {
+      "number": 20,
+      "title": {
+        "TH": "คณะวิชา",
+        "EN": "Faculty",
+        "CN": "學院"
+      },
+      "icon": "mdi-circle-medium",
+      "suffix": "",
+      "prefix": ""
+    },
+    {
+      "number": 21,
+      "title": {
+        "TH": "สาขาวิชา",
+        "EN": "Major",
+        "CN": "重大的"
+      },
+      "icon": "mdi-circle-medium",
+      "suffix": "",
+      "prefix": ""
+    },
+    {
+      "number": 22,
+      "title": {
+        "TH": "สถานที่ทำงาน (TH)",
+        "EN": "Work At (TH)",
+        "CN": "工作在 (TH)"
+      },
+      "icon": "mdi-office-building-marker-outline",
+      "suffix": "th",
+      "prefix": ""
+    },
+    {
+      "number": 23,
+      "title": {
+        "TH": "สถานที่ทำงาน (EN)",
+        "EN": "Work At (EN)",
+        "CN": "工作在 (EN)"
+      },
+      "icon": "mdi-office-building-marker-outline",
+      "suffix": "gb",
+      "prefix": ""
+    },
+    {
+      "number": 24,
+      "title": {
+        "TH": "สถานที่ทำงาน (CN)",
+        "EN": "Work At (CN)",
+        "CN": "工作在 (CN)"
+      },
+      "icon": "mdi-office-building-marker-outline",
+      "suffix": "cn",
+      "prefix": ""
+    },
+    {
+      "number": 25,
+      "title": {
+        "TH": "รายละเอียดงาน (TH)",
+        "EN": "Detail (TH)",
+        "CN": "詳情 (TH)"
+      },
+      "icon": "mdi-card-account-details-star-outline",
+      "suffix": "th",
+      "prefix": ""
+    },
+    {
+      "number": 26,
+      "title": {
+        "TH": "รายละเอียดงาน (EN)",
+        "EN": "Detail (EN)",
+        "CN": "詳情 (EN)"
+      },
+      "icon": "mdi-card-account-details-star-outline",
+      "suffix": "gb",
+      "prefix": ""
+    },
+    {
+      "number": 27,
+      "title": {
+        "TH": "รายละเอียดงาน (CN)",
+        "EN": "Detail (CN)",
+        "CN": "詳情 (CN)"
+      },
+      "icon": "mdi-card-account-details-star-outline",
+      "suffix": "cn",
+      "prefix": ""
+    },
+    {
+      "number": 28,
+      "title": {
+        "TH": "ราคาบวกเพิ่มพิเศษ",
+        "EN": "Extend Cost",
+        "CN": "Extend Cost"
+      },
+      "icon": "mdi-cash",
+      "suffix": "฿",
+      "prefix": ""
+    },
+    {
+      "number": 29,
+      "title": {
+        "TH": "จำนวนการรักษา",
+        "EN": "Total Case",
+        "CN": "Total Case"
+      },
+      "icon": "fas fa-stethoscope",
+      "suffix": "฿",
+      "prefix": ""
+    },
+    {
+      "number": 30,
+      "title": {
+        "TH": "ภาค",
+        "EN": "Geography",
+        "CN": "地理"
+      },
+      "icon": "mdi-table-of-contents",
+      "suffix": "cn",
+      "prefix": ""
+    },
+    {
+      "number": 32,
+      "title": {
+        "TH": "จังหวัด",
+        "EN": "Province",
+        "CN": "省"
+      },
+      "icon": "mdi-table-of-contents",
+      "suffix": "cn",
+      "prefix": ""
+    }
+  ],
+  "labs": [
+    {
+      "number": 0,
+      "title": {
+        "TH": "ห้องปฏิบัติการ",
+        "EN": "LAB",
+        "CN": "LAB"
+      },
+      "icon": "fas fa-vial",
+      "suffix": "",
+      "prefix": ""
+    },
+    {
+      "number": 1,
+      "title": {
+        "TH": "รูปภาพ",
+        "EN": "Image",
+        "CN": "Image"
+      },
+      "icon": "mdi-file-image",
+      "suffix": "",
+      "prefix": ""
+    },
+    {
+      "number": 2,
+      "title": {
+        "TH": "รหัส",
+        "EN": "Code",
+        "CN": "Code"
+      },
+      "icon": "mdi-qrcode-scan",
+      "suffix": "",
+      "prefix": ""
+    },
+    {
+      "number": 3,
+      "title": {
+        "TH": "โรงพยาบาล",
+        "EN": "Hospital",
+        "CN": "醫院"
+      },
+      "icon": "mdi-hospital-building",
+      "suffix": "th",
+      "prefix": ""
+    },
+    {
+      "number": 4,
+      "title": {
+        "TH": "ชื่อห้องปฏิบัติการ (TH)",
+        "EN": "Lab Name (TH)",
+        "CN": "實驗室 (TH)"
+      },
+      "icon": "mdi-text-recognition",
+      "suffix": "th",
+      "prefix": ""
+    },
+    {
+      "number": 5,
+      "title": {
+        "TH": "ชื่อห้องปฏิบัติการ (EN)",
+        "EN": "Lab Name (EN)",
+        "CN": "實驗室 (EN)"
+      },
+      "icon": "mdi-text-recognition",
+      "suffix": "gb",
+      "prefix": ""
+    },
+    {
+      "number": 6,
+      "title": {
+        "TH": "ชื่อห้องปฏิบัติการ (CN)",
+        "EN": "Lab Name (CN)",
+        "CN": "實驗室 (CN)"
+      },
+      "icon": "mdi-text-recognition",
+      "suffix": "cn",
+      "prefix": ""
+    },
+    {
+      "number": 7,
+      "title": {
+        "TH": "รายละเอียดห้องปฏิบัตการ (TH)",
+        "EN": "Lab Detail (TH)",
+        "CN": "實驗室詳細信息 (TH)"
+      },
+      "icon": "mdi-text-recognition",
+      "suffix": "th",
+      "prefix": ""
+    },
+    {
+      "number": 8,
+      "title": {
+        "TH": "รายละเอียดห้องปฏิบัตการ (EN)",
+        "EN": "Lab Detail (EN)",
+        "CN": "實驗室詳細信息 (EN)"
+      },
+      "icon": "mdi-text-recognition",
+      "suffix": "gb",
+      "prefix": ""
+    },
+    {
+      "number": 9,
+      "title": {
+        "TH": "รายละเอียดห้องปฏิบัตการ (CN)",
+        "EN": "Lab Detail (CN)",
+        "CN": "實驗室詳細信息 (CN)"
+      },
+      "icon": "mdi-text-recognition",
+      "suffix": "cn",
+      "prefix": ""
+    }
+  ],
+  "eduLevel": [
+    {
+      "number": 0,
+      "title": {
+        "TH": "ชื่อระดับ (TH)",
+        "EN": "Level Name (TH)",
+        "CN": "教育程度 (TH)"
+      },
+      "icon": "mdi-text-recognition",
+      "suffix": "th",
+      "prefix": ""
+    },
+    {
+      "number": 1,
+      "title": {
+        "TH": "ชื่อระดับ (EN)",
+        "EN": "Level Name (EN)",
+        "CN": "教育程度 (EN)"
+      },
+      "icon": "mdi-text-recognition",
+      "suffix": "gb",
+      "prefix": ""
+    },
+    {
+      "number": 2,
+      "title": {
+        "TH": "ชื่อระดับ (CN)",
+        "EN": "Level Name (CN)",
+        "CN": "教育程度 (CN)"
+      },
+      "icon": "mdi-text-recognition",
+      "suffix": "cn",
+      "prefix": ""
+    },
+    {
+      "number": 3,
+      "title": {
+        "TH": "ชื่อย่อระดับการศึกษา (TH)",
+        "EN": "Prefix Name (TH)",
+        "CN": "字首 (TH)"
+      },
+      "icon": "mdi-text-recognition",
+      "suffix": "th",
+      "prefix": ""
+    },
+    {
+      "number": 4,
+      "title": {
+        "TH": "ชื่อย่อระดับการศึกษา (EN)",
+        "EN": "Prefix Name (EN)",
+        "CN": "字首 (EN)"
+      },
+      "icon": "mdi-text-recognition",
+      "suffix": "gb",
+      "prefix": ""
+    },
+    {
+      "number": 5,
+      "title": {
+        "TH": "ชื่อย่อระดับการศึกษา (CN)",
+        "EN": "Prefix Name (CN)",
+        "CN": "字首 (CN)"
+      },
+      "icon": "mdi-text-recognition",
+      "suffix": "cn",
+      "prefix": ""
+    }
+  ],
+  "university": [
+    {
+      "number": 0,
+      "title": {
+        "TH": "ชื่อมหาลัย (TH)",
+        "EN": "University Name (TH)",
+        "CN": "大學名稱 (TH)"
+      },
+      "icon": "mdi-text-recognition",
+      "suffix": "th",
+      "prefix": ""
+    },
+    {
+      "number": 1,
+      "title": {
+        "TH": "ชื่อมหาลัย (EN)",
+        "EN": "University Name (EN)",
+        "CN": "大學名稱 (EN)"
+      },
+      "icon": "mdi-text-recognition",
+      "suffix": "gb",
+      "prefix": ""
+    },
+    {
+      "number": 2,
+      "title": {
+        "TH": "ชื่อมหาลัย (CN)",
+        "EN": "University Name (CN)",
+        "CN": "大學名稱 (CN)"
+      },
+      "icon": "mdi-text-recognition",
+      "suffix": "cn",
+      "prefix": ""
+    },
+    {
+      "number": 3,
+      "title": {
+        "TH": "ประเทศ",
+        "EN": "Country",
+        "CN": "國"
+      },
+      "icon": "fas fa-flag",
+      "suffix": "",
+      "prefix": ""
+    }
+  ],
+  "faculty": [
+    {
+      "number": 0,
+      "title": {
+        "TH": "คณะวิชา (TH)",
+        "EN": "Faculty Name (TH)",
+        "CN": "學院 (TH)"
+      },
+      "icon": "mdi-text-recognition",
+      "suffix": "th",
+      "prefix": ""
+    },
+    {
+      "number": 1,
+      "title": {
+        "TH": "คณะวิชา (EN)",
+        "EN": "Faculty Name (EN)",
+        "CN": "學院 (EN)"
+      },
+      "icon": "mdi-text-recognition",
+      "suffix": "gb",
+      "prefix": ""
+    },
+    {
+      "number": 2,
+      "title": {
+        "TH": "คณะวิชา (CN)",
+        "EN": "Faculty Name (CN)",
+        "CN": "學院 (CN)"
+      },
+      "icon": "mdi-text-recognition",
+      "suffix": "cn",
+      "prefix": ""
+    }
+  ],
+  "major": [
+    {
+      "number": 0,
+      "title": {
+        "TH": "ชื่อสาขา (TH)",
+        "EN": "Major Name (TH)",
+        "CN": "重大的 (TH)"
+      },
+      "icon": "mdi-text-recognition",
+      "suffix": "th",
+      "prefix": ""
+    },
+    {
+      "number": 1,
+      "title": {
+        "TH": "ชื่อสาขา (EN)",
+        "EN": "Major Name (EN)",
+        "CN": "重大的 (EN)"
+      },
+      "icon": "mdi-text-recognition",
+      "suffix": "gb",
+      "prefix": ""
+    },
+    {
+      "number": 2,
+      "title": {
+        "TH": "ชื่อสาขา (CN)",
+        "EN": "Major Name (CN)",
+        "CN": "重大的 (CN)"
+      },
+      "icon": "mdi-text-recognition",
+      "suffix": "cn",
+      "prefix": ""
+    }
+  ],
+  "companies": [
+    {
+      "number": 0,
+      "title": {
+        "TH": "บริษัท",
+        "EN": "Company",
+        "CN": "Company"
+      },
+      "icon": "mdi-domain",
+      "suffix": "",
+      "prefix": ""
+    },
+    {
+      "number": 1,
+      "title": {
+        "TH": "โลโก้",
+        "EN": "Logo",
+        "CN": "商標"
+      },
+      "icon": "mdi-emoticon",
+      "suffix": "",
+      "prefix": ""
+    },
+    {
+      "number": 2,
+      "title": {
+        "TH": "รหัส",
+        "EN": "Code",
+        "CN": "Code"
+      },
+      "icon": "mdi-qrcode-scan",
+      "suffix": "",
+      "prefix": ""
+    },
+    {
+      "number": 3,
+      "title": {
+        "TH": "ประเภท",
+        "EN": "Type",
+        "CN": "類型"
+      },
+      "icon": "mdi-format-list-bulleted-type",
+      "suffix": "",
+      "prefix": ""
+    },
+    {
+      "number": 4,
+      "title": {
+        "TH": "ชื่อบริษัท/ห้างร้่าน (TH)",
+        "EN": "Company Name (TH)",
+        "CN": "公司名 (TH)"
+      },
+      "icon": "mdi-text-recognition",
+      "suffix": "th",
+      "prefix": ""
+    },
+    {
+      "number": 5,
+      "title": {
+        "TH": "ชื่อบริษัท/ห้างร้่าน (EN)",
+        "EN": "Company Name (EN)",
+        "CN": "公司名 (EN)"
+      },
+      "icon": "mdi-text-recognition",
+      "suffix": "gb",
+      "prefix": ""
+    },
+    {
+      "number": 6,
+      "title": {
+        "TH": "ชื่อบริษัท/ห้างร้่าน (CN)",
+        "EN": "Company Name (CN)",
+        "CN": "公司名 (CN)"
+      },
+      "icon": "mdi-text-recognition",
+      "suffix": "cn",
+      "prefix": ""
+    },
+    {
+      "number": 7,
+      "title": {
+        "TH": "เบอร์ติดต่อ 1",
+        "EN": "Phone 1",
+        "CN": "電話"
+      },
+      "icon": "mdi-phone",
+      "suffix": "",
+      "prefix": ""
+    },
+    {
+      "number": 8,
+      "title": {
+        "TH": "ต่อ 1",
+        "EN": "Ext 1",
+        "CN": "Ext 1"
+      },
+      "icon": "mdi-phone",
+      "suffix": "",
+      "prefix": ""
+    },
+    {
+      "number": 9,
+      "title": {
+        "TH": "เบอร์ติดต่อ 2",
+        "EN": "Phone 2",
+        "CN": "電話"
+      },
+      "icon": "mdi-phone",
+      "suffix": "",
+      "prefix": ""
+    },
+    {
+      "number": 10,
+      "title": {
+        "TH": "ต่อ 2",
+        "EN": "Ext 2",
+        "CN": "Ext 2"
+      },
+      "icon": "mdi-phone",
+      "suffix": "",
+      "prefix": ""
+    },
+    {
+      "number": 11,
+      "title": {
+        "TH": "มือถือ 1",
+        "EN": "Mobile 1",
+        "CN": "移動 1"
+      },
+      "icon": "mdi-cellphone-basic",
+      "suffix": "",
+      "prefix": ""
+    },
+    {
+      "number": 12,
+      "title": {
+        "TH": "มือถือ 2",
+        "EN": "Mobile 2",
+        "CN": "移動 2"
+      },
+      "icon": "mdi-cellphone-basic",
+      "suffix": "",
+      "prefix": ""
+    },
+    {
+      "number": 13,
+      "title": {
+        "TH": "แฟกซ์ 1",
+        "EN": "Fax 1",
+        "CN": "Fax 1"
+      },
+      "icon": "mdi-fax",
+      "suffix": "",
+      "prefix": ""
+    },
+    {
+      "number": 14,
+      "title": {
+        "TH": "ต่อ",
+        "EN": "Ext",
+        "CN": "Ext"
+      },
+      "icon": "mdi-fax",
+      "suffix": "",
+      "prefix": ""
+    },
+    {
+      "number": 15,
+      "title": {
+        "TH": "เว็บไซต์",
+        "EN": "Web Site",
+        "CN": "網站"
+      },
+      "icon": "mdi-web-box",
+      "suffix": "",
+      "prefix": ""
+    },
+    {
+      "number": 16,
+      "title": {
+        "TH": "อีเมล 1",
+        "EN": "Email 1",
+        "CN": "電子郵件 1"
+      },
+      "icon": "mdi-email",
+      "suffix": "",
+      "prefix": ""
+    },
+    {
+      "number": 17,
+      "title": {
+        "TH": "อีเมล 2",
+        "EN": "Email 2",
+        "CN": "電子郵件 2"
+      },
+      "icon": "mdi-email",
+      "suffix": "",
+      "prefix": ""
+    },
+    {
+      "number": 18,
+      "title": {
+        "TH": "Line ID",
+        "EN": "Line ID",
+        "CN": "Line ID"
+      },
+      "icon": "fab fa-line",
+      "suffix": "",
+      "prefix": ""
+    },
+    {
+      "number": 19,
+      "title": {
+        "TH": "เจ้าของระบบ",
+        "EN": "System Owner",
+        "CN": "系統負責人"
+      },
+      "icon": "mdi-account-tie",
+      "suffix": "",
+      "prefix": ""
+    }
+  ],
+  "companyTypes": [
+    {
+      "number": 0,
+      "title": {
+        "TH": "ประเภทบริษัท",
+        "EN": "Company Type",
+        "CN": "Company Type"
+      },
+      "icon": "mdi-format-list-bulleted-type",
+      "suffix": "",
+      "prefix": ""
+    },
+    {
+      "number": 1,
+      "title": {
+        "TH": "รหัส",
+        "EN": "Code",
+        "CN": "Code"
+      },
+      "icon": "mdi-qrcode-scan",
+      "suffix": "",
+      "prefix": ""
+    },
+    {
+      "number": 2,
+      "title": {
+        "TH": "ชื่อประเภท (TH)",
+        "EN": "Type Name (TH)",
+        "CN": "類型名稱 (TH)"
+      },
+      "icon": "mdi-text-recognition",
+      "suffix": "th",
+      "prefix": ""
+    },
+    {
+      "number": 3,
+      "title": {
+        "TH": "ชื่อประเภท (EN)",
+        "EN": "Type Name (EN)",
+        "CN": "類型名稱 (EN)"
+      },
+      "icon": "mdi-text-recognition",
+      "suffix": "gb",
+      "prefix": ""
+    },
+    {
+      "number": 4,
+      "title": {
+        "TH": "ชื่อประเภท (CN)",
+        "EN": "Type Name (CN)",
+        "CN": "類型名稱 (CN)"
+      },
+      "icon": "mdi-text-recognition",
+      "suffix": "cn",
+      "prefix": ""
+    }
+  ],
+  "businessUnits": [
+    {
+      "number": 0,
+      "title": {
+        "TH": "หน่วยธุรกิจ",
+        "EN": "Business Unit",
+        "CN": "Business Unit"
+      },
+      "icon": "mdi-google-my-business",
+      "suffix": "",
+      "prefix": ""
+    },
+    {
+      "number": 1,
+      "title": {
+        "TH": "โลโก้",
+        "EN": "Logo",
+        "CN": "商標"
+      },
+      "icon": "mdi-emoticon",
+      "suffix": "",
+      "prefix": ""
+    },
+    {
+      "number": 2,
+      "title": {
+        "TH": "รหัส",
+        "EN": "Code",
+        "CN": "Code"
+      },
+      "icon": "mdi-qrcode-scan",
+      "suffix": "",
+      "prefix": ""
+    },
+    {
+      "number": 3,
+      "title": {
+        "TH": "ประเภท",
+        "EN": "Type",
+        "CN": "類型"
+      },
+      "icon": "mdi-format-list-bulleted-type",
+      "suffix": "",
+      "prefix": ""
+    },
+    {
+      "number": 4,
+      "title": {
+        "TH": "บริษัทแม่",
+        "EN": "Parent Company",
+        "CN": "母公司"
+      },
+      "icon": "mdi-domain",
+      "suffix": "",
+      "prefix": ""
+    },
+    {
+      "number": 5,
+      "title": {
+        "TH": "ชื่อหน่วยธุรกิจ (TH)",
+        "EN": "BU Name (TH)",
+        "CN": "BU Name (TH)"
+      },
+      "icon": "mdi-text-recognition",
+      "suffix": "th",
+      "prefix": ""
+    },
+    {
+      "number": 6,
+      "title": {
+        "TH": "ชื่อหน่วยธุรกิจ (EN)",
+        "EN": "BU Name Name (EN)",
+        "CN": "BU Name (EN)"
+      },
+      "icon": "mdi-text-recognition",
+      "suffix": "gb",
+      "prefix": ""
+    },
+    {
+      "number": 7,
+      "title": {
+        "TH": "ชื่อหน่วยธุรกิจ (CN)",
+        "EN": "BU Name Name (CN)",
+        "CN": "BU Name (CN)"
+      },
+      "icon": "mdi-text-recognition",
+      "suffix": "cn",
+      "prefix": ""
+    },
+    {
+      "number": 8,
+      "title": {
+        "TH": "เบอร์ติดต่อ 1",
+        "EN": "Phone 1",
+        "CN": "電話"
+      },
+      "icon": "mdi-phone",
+      "suffix": "",
+      "prefix": ""
+    },
+    {
+      "number": 9,
+      "title": {
+        "TH": "ต่อ 1",
+        "EN": "Ext 1",
+        "CN": "Ext 1"
+      },
+      "icon": "mdi-phone",
+      "suffix": "",
+      "prefix": ""
+    },
+    {
+      "number": 10,
+      "title": {
+        "TH": "เบอร์ติดต่อ 2",
+        "EN": "Phone 2",
+        "CN": "電話"
+      },
+      "icon": "mdi-phone",
+      "suffix": "",
+      "prefix": ""
+    },
+    {
+      "number": 11,
+      "title": {
+        "TH": "ต่อ 2",
+        "EN": "Ext 2",
+        "CN": "Ext 2"
+      },
+      "icon": "mdi-phone",
+      "suffix": "",
+      "prefix": ""
+    },
+    {
+      "number": 12,
+      "title": {
+        "TH": "มือถือ 1",
+        "EN": "Mobile 1",
+        "CN": "移動 1"
+      },
+      "icon": "mdi-cellphone-basic",
+      "suffix": "",
+      "prefix": ""
+    },
+    {
+      "number": 13,
+      "title": {
+        "TH": "มือถือ 2",
+        "EN": "Mobile 2",
+        "CN": "移動 2"
+      },
+      "icon": "mdi-cellphone-basic",
+      "suffix": "",
+      "prefix": ""
+    },
+    {
+      "number": 14,
+      "title": {
+        "TH": "แฟกซ์ 1",
+        "EN": "Fax 1",
+        "CN": "Fax 1"
+      },
+      "icon": "mdi-fax",
+      "suffix": "",
+      "prefix": ""
+    },
+    {
+      "number": 15,
+      "title": {
+        "TH": "ต่อ",
+        "EN": "Ext",
+        "CN": "Ext"
+      },
+      "icon": "mdi-fax",
+      "suffix": "",
+      "prefix": ""
+    },
+    {
+      "number": 16,
+      "title": {
+        "TH": "เว็บไซต์",
+        "EN": "Web Site",
+        "CN": "網站"
+      },
+      "icon": "mdi-web-box",
+      "suffix": "",
+      "prefix": ""
+    },
+    {
+      "number": 17,
+      "title": {
+        "TH": "อีเมล 1",
+        "EN": "Email 1",
+        "CN": "電子郵件 1"
+      },
+      "icon": "mdi-email",
+      "suffix": "",
+      "prefix": ""
+    },
+    {
+      "number": 18,
+      "title": {
+        "TH": "อีเมล 2",
+        "EN": "Email 2",
+        "CN": "電子郵件 2"
+      },
+      "icon": "mdi-email",
+      "suffix": "",
+      "prefix": ""
+    },
+    {
+      "number": 19,
+      "title": {
+        "TH": "Line ID",
+        "EN": "Line ID",
+        "CN": "Line ID"
+      },
+      "icon": "fab fa-line",
+      "suffix": "",
+      "prefix": ""
+    },
+    {
+      "number": 20,
+      "title": {
+        "TH": "เจ้าของระบบ",
+        "EN": "System Owner",
+        "CN": "系統負責人"
+      },
+      "icon": "mdi-account-tie",
+      "suffix": "",
+      "prefix": ""
+    }
+  ],
+  "positions": [
+    {
+      "number": 0,
+      "title": {
+        "TH": "ตำแหน่งงาน",
+        "EN": "Position",
+        "CN": "Position"
+      },
+      "icon": "mdi-chevron-triple-up",
+      "suffix": "",
+      "prefix": ""
+    },
+    {
+      "number": 1,
+      "title": {
+        "TH": "ชื่อตำแหน่ง (TH)",
+        "EN": "Position Name (TH)",
+        "CN": "Position Name (TH)"
+      },
+      "icon": "mdi-text-recognition",
+      "suffix": "th",
+      "prefix": ""
+    },
+    {
+      "number": 2,
+      "title": {
+        "TH": "ชื่อตำแหน่ง (EN)",
+        "EN": "Position Name (EN)",
+        "CN": "Position Name (EN)"
+      },
+      "icon": "mdi-text-recognition",
+      "suffix": "gb",
+      "prefix": ""
+    },
+    {
+      "number": 3,
+      "title": {
+        "TH": "ชื่อตำแหน่ง (CN)",
+        "EN": "Position Name (CN)",
+        "CN": "Position Name (CN)"
+      },
+      "icon": "mdi-text-recognition",
+      "suffix": "cn",
+      "prefix": ""
+    }
+  ],
+  "hotels": [
+    {
+      "number": 0,
+      "title": {
+        "TH": "โรงแรม",
+        "EN": "Hotel",
+        "CN": "Hotel"
+      },
+      "icon": "fas fa-h-square",
+      "suffix": "",
+      "prefix": ""
+    },
+    {
+      "number": 1,
+      "title": {
+        "TH": "รูปภาพ",
+        "EN": "Image",
+        "CN": "Image"
+      },
+      "icon": "mdi-file-image",
+      "suffix": "",
+      "prefix": ""
+    },
+    {
+      "number": 2,
+      "title": {
+        "TH": "รหัส",
+        "EN": "Code",
+        "CN": "Code"
+      },
+      "icon": "mdi-qrcode-scan",
+      "suffix": "",
+      "prefix": ""
+    },
+    {
+      "number": 3,
+      "title": {
+        "TH": "ความนิยม",
+        "EN": "Rating",
+        "CN": "Rating"
+      },
+      "icon": "mdi-star",
+      "suffix": "",
+      "prefix": ""
+    },
+    {
+      "number": 4,
+      "title": {
+        "TH": "ชื่อโรงแรม (TH)",
+        "EN": "Hotel Name (TH)",
+        "CN": "Hotel Name (TH)"
+      },
+      "icon": "mdi-text-recognition",
+      "suffix": "th",
+      "prefix": ""
+    },
+    {
+      "number": 5,
+      "title": {
+        "TH": "ชื่อโรงแรม (EN)",
+        "EN": "Hotel Name (EN)",
+        "CN": "Hotel Name (EN)"
+      },
+      "icon": "mdi-text-recognition",
+      "suffix": "gb",
+      "prefix": ""
+    },
+    {
+      "number": 6,
+      "title": {
+        "TH": "ชื่อโรงแรม (CN)",
+        "EN": "Hotel Name (CN)",
+        "CN": "Hotel Name (CN)"
+      },
+      "icon": "mdi-text-recognition",
+      "suffix": "cn",
+      "prefix": ""
+    },
+    {
+      "number": 7,
+      "title": {
+        "TH": "บริษัท",
+        "EN": "Company",
+        "CN": "Company"
+      },
+      "icon": "mdi-domain",
+      "suffix": "",
+      "prefix": ""
+    },
+    {
+      "number": 8,
+      "title": {
+        "TH": "หน่วยธุรกิจ",
+        "EN": "Business Unit",
+        "CN": "業務部"
+      },
+      "icon": "mdi-google-my-business",
+      "suffix": "",
+      "prefix": ""
+    },
+    {
+      "number": 9,
+      "title": {
+        "TH": "รายละเอียดโรงแรม (TH)",
+        "EN": "Detail (TH)",
+        "CN": "Detail (TH)"
+      },
+      "icon": "mdi-table-of-contents",
+      "suffix": "th",
+      "prefix": ""
+    },
+    {
+      "number": 10,
+      "title": {
+        "TH": "รายละเอียดโรงแรม (EN)",
+        "EN": "Detail (EN)",
+        "CN": "Detail (EN)"
+      },
+      "icon": "mdi-table-of-contents",
+      "suffix": "gb",
+      "prefix": ""
+    },
+    {
+      "number": 11,
+      "title": {
+        "TH": "รายละเอียดโรงแรม (CN)",
+        "EN": "Detail (CN)",
+        "CN": "Detail (CN)"
+      },
+      "icon": "mdi-table-of-contents",
+      "suffix": "cn",
+      "prefix": ""
+    }
+  ],
+  "hotelRooms": [
+    {
+      "number": 0,
+      "title": {
+        "TH": "ห้องพัก",
+        "EN": "Room",
+        "CN": "房間"
+      },
+      "icon": "mdi-bed",
+      "suffix": "",
+      "prefix": ""
+    },
+    {
+      "number": 1,
+      "title": {
+        "TH": "รูปภาพ",
+        "EN": "Image",
+        "CN": "Image"
+      },
+      "icon": "mdi-file-image",
+      "suffix": "",
+      "prefix": ""
+    },
+    {
+      "number": 2,
+      "title": {
+        "TH": "รหัส",
+        "EN": "Code",
+        "CN": "Code"
+      },
+      "icon": "mdi-qrcode-scan",
+      "suffix": "",
+      "prefix": ""
+    },
+    {
+      "number": 3,
+      "title": {
+        "TH": "ความนิยม",
+        "EN": "Rating",
+        "CN": "Rating"
+      },
+      "icon": "mdi-star",
+      "suffix": "",
+      "prefix": ""
+    },
+    {
+      "number": 4,
+      "title": {
+        "TH": "ชื่อห้องพัก (TH)",
+        "EN": "Room Name (TH)",
+        "CN": "Room Name (TH)"
+      },
+      "icon": "mdi-text-recognition",
+      "suffix": "th",
+      "prefix": ""
+    },
+    {
+      "number": 5,
+      "title": {
+        "TH": "ชื่อห้องพัก (EN)",
+        "EN": "Room Name (EN)",
+        "CN": "Room Name (EN)"
+      },
+      "icon": "mdi-text-recognition",
+      "suffix": "gb",
+      "prefix": ""
+    },
+    {
+      "number": 6,
+      "title": {
+        "TH": "ชื่อห้องพัก (CN)",
+        "EN": "Room Name (CN)",
+        "CN": "Room Name (CN)"
+      },
+      "icon": "mdi-text-recognition",
+      "suffix": "cn",
+      "prefix": ""
+    },
+    {
+      "number": 7,
+      "title": {
+        "TH": "โรงแรม",
+        "EN": "Hotel",
+        "CN": "旅館"
+      },
+      "icon": "fas fa-h-square",
+      "suffix": "",
+      "prefix": ""
+    },
+    {
+      "number": 8,
+      "title": {
+        "TH": "รายละเอียดห้องพัก (TH)",
+        "EN": "Detail (TH)",
+        "CN": "Detail (TH)"
+      },
+      "icon": "mdi-table-of-contents",
+      "suffix": "th",
+      "prefix": ""
+    },
+    {
+      "number": 9,
+      "title": {
+        "TH": "รายละเอียดห้องพัก (EN)",
+        "EN": "Detail (EN)",
+        "CN": "Detail (EN)"
+      },
+      "icon": "mdi-table-of-contents",
+      "suffix": "gb",
+      "prefix": ""
+    },
+    {
+      "number": 10,
+      "title": {
+        "TH": "รายละเอียดห้องพัก (CN)",
+        "EN": "Detail (CN)",
+        "CN": "Detail (CN)"
+      },
+      "icon": "mdi-table-of-contents",
+      "suffix": "cn",
+      "prefix": ""
+    },
+    {
+      "number": 11,
+      "title": {
+        "TH": "ราคาต้นทุน",
+        "EN": "Cost",
+        "CN": "Cost"
+      },
+      "icon": "mdi-cash-multiple",
+      "suffix": "฿",
+      "prefix": ""
+    },
+    {
+      "number": 12,
+      "title": {
+        "TH": "ราคาขาย",
+        "EN": "Price",
+        "CN": "Price"
+      },
+      "icon": "mdi-cash-multiple",
+      "suffix": "฿",
+      "prefix": ""
+    },
+    {
+      "number": 13,
+      "title": {
+        "TH": "ราคา",
+        "EN": "Price",
+        "CN": "Price"
+      },
+      "icon": "mdi-cash-multiple",
+      "suffix": "฿",
+      "prefix": ""
+    }
+  ],
+  "facilities": [
+    {
+      "number": 0,
+      "title": {
+        "TH": "สิ่งอำนวยความสะดวก",
+        "EN": "Facility",
+        "CN": "設施"
+      },
+      "icon": "mdi-paper-roll",
+      "suffix": "",
+      "prefix": ""
+    },
+    {
+      "number": 1,
+      "title": {
+        "TH": "รูปภาพ",
+        "EN": "Image",
+        "CN": "Image"
+      },
+      "icon": "mdi-file-image",
+      "suffix": "",
+      "prefix": ""
+    },
+    {
+      "number": 2,
+      "title": {
+        "TH": "รหัส",
+        "EN": "Code",
+        "CN": "Code"
+      },
+      "icon": "mdi-qrcode-scan",
+      "suffix": "",
+      "prefix": ""
+    },
+    {
+      "number": 3,
+      "title": {
+        "TH": "ชื่อสิ่งอำนวยความสะดวก (TH)",
+        "EN": "Facility Name (TH)",
+        "CN": "設備名稱 (TH)"
+      },
+      "icon": "mdi-text-recognition",
+      "suffix": "th",
+      "prefix": ""
+    },
+    {
+      "number": 4,
+      "title": {
+        "TH": "ชื่อสิ่งอำนวยความสะดวก (EN)",
+        "EN": "Facility Name (EN)",
+        "CN": "設備名稱 (EN)"
+      },
+      "icon": "mdi-text-recognition",
+      "suffix": "gb",
+      "prefix": ""
+    },
+    {
+      "number": 5,
+      "title": {
+        "TH": "ชื่อสิ่งอำนวยความสะดวก (CN)",
+        "EN": "Facility Name (CN)",
+        "CN": "設備名稱 (CN)"
+      },
+      "icon": "mdi-text-recognition",
+      "suffix": "cn",
+      "prefix": ""
+    },
+    {
+      "number": 6,
+      "title": {
+        "TH": "ห้องพัก",
+        "EN": "Room",
+        "CN": "房間"
+      },
+      "icon": "mdi-bed",
+      "suffix": "",
+      "prefix": ""
+    },
+    {
+      "number": 7,
+      "title": {
+        "TH": "โรงแรม",
+        "EN": "Hotel",
+        "CN": "旅館"
+      },
+      "icon": "fas fa-h-square",
+      "suffix": "",
+      "prefix": ""
+    }
+  ],
+  "spas": [
+    {
+      "number": 0,
+      "title": {
+        "TH": "สปา",
+        "EN": "Spa",
+        "CN": "溫泉"
+      },
+      "icon": "mdi-spa",
+      "suffix": "",
+      "prefix": ""
+    },
+    {
+      "number": 1,
+      "title": {
+        "TH": "รูปภาพ",
+        "EN": "Image",
+        "CN": "Image"
+      },
+      "icon": "mdi-file-image",
+      "suffix": "",
+      "prefix": ""
+    },
+    {
+      "number": 2,
+      "title": {
+        "TH": "รหัส",
+        "EN": "Code",
+        "CN": "Code"
+      },
+      "icon": "mdi-qrcode-scan",
+      "suffix": "",
+      "prefix": ""
+    },
+    {
+      "number": 3,
+      "title": {
+        "TH": "ความนิยม",
+        "EN": "Rating",
+        "CN": "Rating"
+      },
+      "icon": "mdi-star",
+      "suffix": "",
+      "prefix": ""
+    },
+    {
+      "number": 4,
+      "title": {
+        "TH": "ชื่อสปา (TH)",
+        "EN": "Spa Name (TH)",
+        "CN": "溫泉名稱 (TH)"
+      },
+      "icon": "mdi-text-recognition",
+      "suffix": "th",
+      "prefix": ""
+    },
+    {
+      "number": 5,
+      "title": {
+        "TH": "ชื่อสปา (EN)",
+        "EN": "Spa Name (EN)",
+        "CN": "溫泉名稱 (EN)"
+      },
+      "icon": "mdi-text-recognition",
+      "suffix": "gb",
+      "prefix": ""
+    },
+    {
+      "number": 6,
+      "title": {
+        "TH": "ชื่อสปา (CN)",
+        "EN": "Spa Name (CN)",
+        "CN": "溫泉名稱 (CN)"
+      },
+      "icon": "mdi-text-recognition",
+      "suffix": "cn",
+      "prefix": ""
+    },
+    {
+      "number": 7,
+      "title": {
+        "TH": "บริษัท",
+        "EN": "Company",
+        "CN": "Company"
+      },
+      "icon": "mdi-domain",
+      "suffix": "",
+      "prefix": ""
+    },
+    {
+      "number": 8,
+      "title": {
+        "TH": "หน่วยธุรกิจ",
+        "EN": "Business Unit",
+        "CN": "業務部"
+      },
+      "icon": "mdi-google-my-business",
+      "suffix": "",
+      "prefix": ""
+    },
+    {
+      "number": 9,
+      "title": {
+        "TH": "รายละเอียดสปา (TH)",
+        "EN": "Detail (TH)",
+        "CN": "Detail (TH)"
+      },
+      "icon": "mdi-table-of-contents",
+      "suffix": "th",
+      "prefix": ""
+    },
+    {
+      "number": 10,
+      "title": {
+        "TH": "รายละเอียดสปา (EN)",
+        "EN": "Detail (EN)",
+        "CN": "Detail (EN)"
+      },
+      "icon": "mdi-table-of-contents",
+      "suffix": "gb",
+      "prefix": ""
+    },
+    {
+      "number": 11,
+      "title": {
+        "TH": "รายละเอียดสปา (CN)",
+        "EN": "Detail (CN)",
+        "CN": "Detail (CN)"
+      },
+      "icon": "mdi-table-of-contents",
+      "suffix": "cn",
+      "prefix": ""
+    }
+  ],
+  "spaPackages": [
+    {
+      "number": 0,
+      "title": {
+        "TH": "แพคเกจสปา",
+        "EN": "Spa Package",
+        "CN": "水療套餐"
+      },
+      "icon": "mdi-hand-heart-outline",
+      "suffix": "",
+      "prefix": ""
+    },
+    {
+      "number": 1,
+      "title": {
+        "TH": "รูปภาพ",
+        "EN": "Image",
+        "CN": "Image"
+      },
+      "icon": "mdi-file-image",
+      "suffix": "",
+      "prefix": ""
+    },
+    {
+      "number": 2,
+      "title": {
+        "TH": "รหัส",
+        "EN": "Code",
+        "CN": "Code"
+      },
+      "icon": "mdi-qrcode-scan",
+      "suffix": "",
+      "prefix": ""
+    },
+    {
+      "number": 3,
+      "title": {
+        "TH": "สปา",
+        "EN": "Spa",
+        "CN": "Spa"
+      },
+      "icon": "mdi-spa",
+      "suffix": "",
+      "prefix": ""
+    },
+    {
+      "number": 4,
+      "title": {
+        "TH": "ชื่อแพคเกจ (TH)",
+        "EN": "Package Name (TH)",
+        "CN": "包裹名字 (TH)"
+      },
+      "icon": "mdi-text-recognition",
+      "suffix": "th",
+      "prefix": ""
+    },
+    {
+      "number": 5,
+      "title": {
+        "TH": "ชื่อแพคเกจ (EN)",
+        "EN": "Package Name (EN)",
+        "CN": "包裹名字 (EN)"
+      },
+      "icon": "mdi-text-recognition",
+      "suffix": "gb",
+      "prefix": ""
+    },
+    {
+      "number": 6,
+      "title": {
+        "TH": "ชื่อแพคเกจ (CN)",
+        "EN": "Package Name (CN)",
+        "CN": "包裹名字 (CN)"
+      },
+      "icon": "mdi-text-recognition",
+      "suffix": "cn",
+      "prefix": ""
+    },
+    {
+      "number": 7,
+      "title": {
+        "TH": "รายละเอียด (TH)",
+        "EN": "Detail (TH)",
+        "CN": "Detail (TH)"
+      },
+      "icon": "mdi-table-of-contents",
+      "suffix": "th",
+      "prefix": ""
+    },
+    {
+      "number": 8,
+      "title": {
+        "TH": "รายละเอียด (EN)",
+        "EN": "Detail (EN)",
+        "CN": "Detail (EN)"
+      },
+      "icon": "mdi-table-of-contents",
+      "suffix": "gb",
+      "prefix": ""
+    },
+    {
+      "number": 9,
+      "title": {
+        "TH": "รายละเอียด (CN)",
+        "EN": "Detail (CN)",
+        "CN": "Detail (CN)"
+      },
+      "icon": "mdi-table-of-contents",
+      "suffix": "cn",
+      "prefix": ""
+    },
+    {
+      "number": 10,
+      "title": {
+        "TH": "ราคาต้นทุน",
+        "EN": "Cost",
+        "CN": "Cost"
+      },
+      "icon": "mdi-cash",
+      "suffix": "฿",
+      "prefix": ""
+    },
+    {
+      "number": 11,
+      "title": {
+        "TH": "ราคา",
+        "EN": "Price",
+        "CN": "Price"
+      },
+      "icon": "mdi-cash",
+      "suffix": "฿",
+      "prefix": ""
+    },
+    {
+      "number": 12,
+      "title": {
+        "TH": "ลดราคา",
+        "EN": "Discount",
+        "CN": "Discount"
+      },
+      "icon": "mdi-cash",
+      "suffix": "฿",
+      "prefix": ""
+    },
+    {
+      "number": 13,
+      "title": {
+        "TH": "ทั้งหมด",
+        "EN": "Total",
+        "CN": "Total"
+      },
+      "icon": "mdi-cash",
+      "suffix": "฿",
+      "prefix": ""
+    }
+  ],
+  "spaMethods": [
+    {
+      "number": 0,
+      "title": {
+        "TH": "วิธีการทำสปา",
+        "EN": "Spa Method",
+        "CN": "方法"
+      },
+      "icon": "mdi-hand-heart-outline",
+      "suffix": "",
+      "prefix": ""
+    },
+    {
+      "number": 1,
+      "title": {
+        "TH": "รูปภาพ",
+        "EN": "Image",
+        "CN": "Image"
+      },
+      "icon": "mdi-file-image",
+      "suffix": "",
+      "prefix": ""
+    },
+    {
+      "number": 2,
+      "title": {
+        "TH": "รหัส",
+        "EN": "Code",
+        "CN": "Code"
+      },
+      "icon": "mdi-qrcode-scan",
+      "suffix": "",
+      "prefix": ""
+    },
+    {
+      "number": 3,
+      "title": {
+        "TH": "วิธีการ (TH)",
+        "EN": "Method (TH)",
+        "CN": "方法 (TH)"
+      },
+      "icon": "mdi-text-recognition",
+      "suffix": "th",
+      "prefix": ""
+    },
+    {
+      "number": 4,
+      "title": {
+        "TH": "วิธีการ (EN)",
+        "EN": "Method (EN)",
+        "CN": "方法 (EN)"
+      },
+      "icon": "mdi-text-recognition",
+      "suffix": "gb",
+      "prefix": ""
+    },
+    {
+      "number": 5,
+      "title": {
+        "TH": "วิธีการ (CN)",
+        "EN": "Method (CN)",
+        "CN": "方法 (CN)"
+      },
+      "icon": "mdi-text-recognition",
+      "suffix": "cn",
+      "prefix": ""
+    },
+    {
+      "number": 6,
+      "title": {
+        "TH": "สปา",
+        "EN": "Spa",
+        "CN": "Spa"
+      },
+      "icon": "mdi-spa",
+      "suffix": "",
+      "prefix": ""
+    },
+    {
+      "number": 7,
+      "title": {
+        "TH": "รายละเอียด (TH)",
+        "EN": "Detail (TH)",
+        "CN": "Detail (TH)"
+      },
+      "icon": "mdi-table-of-contents",
+      "suffix": "th",
+      "prefix": ""
+    },
+    {
+      "number": 8,
+      "title": {
+        "TH": "รายละเอียด (EN)",
+        "EN": "Detail (EN)",
+        "CN": "Detail (EN)"
+      },
+      "icon": "mdi-table-of-contents",
+      "suffix": "gb",
+      "prefix": ""
+    },
+    {
+      "number": 9,
+      "title": {
+        "TH": "รายละเอียด (CN)",
+        "EN": "Detail (CN)",
+        "CN": "Detail (CN)"
+      },
+      "icon": "mdi-table-of-contents",
+      "suffix": "cn",
+      "prefix": ""
+    },
+    {
+      "number": 10,
+      "title": {
+        "TH": "ราคาต้นทุน",
+        "EN": "Cost",
+        "CN": "Cost"
+      },
+      "icon": "mdi-cash",
+      "suffix": "฿",
+      "prefix": ""
+    },
+    {
+      "number": 11,
+      "title": {
+        "TH": "ราคา",
+        "EN": "Price",
+        "CN": "Price"
+      },
+      "icon": "mdi-cash",
+      "suffix": "฿",
+      "prefix": ""
+    }
+  ],
+  "officeMenus": [
+    {
+      "number": 0,
+      "title": {
+        "TH": "เมนูหลังบ้าน",
+        "EN": "Office Menu",
+        "CN": "菜單"
+      },
+      "icon": "fas fa-bars",
+      "suffix": "",
+      "prefix": ""
+    },
+    {
+      "number": 1,
+      "title": {
+        "TH": "รหัส",
+        "EN": "Code",
+        "CN": "Code"
+      },
+      "icon": "mdi-qrcode-scan",
+      "suffix": "",
+      "prefix": ""
+    },
+    {
+      "number": 2,
+      "title": {
+        "TH": "ชื่อเมนู (TH)",
+        "EN": "Menu Name (TH)",
+        "CN": "菜單 (TH)"
+      },
+      "icon": "mdi-text-recognition",
+      "suffix": "th",
+      "prefix": ""
+    },
+    {
+      "number": 3,
+      "title": {
+        "TH": "ชื่อเมนู (EN)",
+        "EN": "Menu Name (EN)",
+        "CN": "菜單 (EN)"
+      },
+      "icon": "mdi-text-recognition",
+      "suffix": "gb",
+      "prefix": ""
+    },
+    {
+      "number": 4,
+      "title": {
+        "TH": "ชื่อเมนู (CN)",
+        "EN": "Menu Name (CN)",
+        "CN": "菜單 (CN)"
+      },
+      "icon": "mdi-text-recognition",
+      "suffix": "cn",
+      "prefix": ""
+    },
+    {
+      "number": 5,
+      "title": {
+        "TH": "ICON",
+        "EN": "ICON",
+        "CN": "ICON"
+      },
+      "icon": "mdi-emotion",
+      "suffix": "",
+      "prefix": ""
+    },
+    {
+      "number": 6,
+      "title": {
+        "TH": "ประเภท",
+        "EN": "Type",
+        "CN": "類型"
+      },
+      "icon": "mdi-format-list-bulleted-type",
+      "suffix": "",
+      "prefix": ""
+    },
+    {
+      "number": 7,
+      "title": {
+        "TH": "URL",
+        "EN": "URL",
+        "CN": "URL"
+      },
+      "icon": "mdi-table-of-contents",
+      "suffix": "th",
+      "prefix": ""
+    },
+    {
+      "number": 8,
+      "title": {
+        "TH": "ลำดับ",
+        "EN": "Sort",
+        "CN": "分類"
+      },
+      "icon": "mdi-sort-numeric-ascending",
+      "suffix": "gb",
+      "prefix": ""
+    },
+    {
+      "number": 9,
+      "title": {
+        "TH": "โหมด",
+        "EN": "Mode",
+        "CN": "Mode"
+      },
+      "icon": "mdi-table-of-contents",
+      "suffix": "cn",
+      "prefix": ""
+    },
+    {
+      "number": 10,
+      "title": {
+        "TH": "หน้าเริ่มต้น",
+        "EN": "Index Route",
+        "CN": "Index Route"
+      },
+      "icon": "mdi-routes",
+      "suffix": "cn",
+      "prefix": ""
+    },
+    {
+      "number": 11,
+      "title": {
+        "TH": "เมนูหลัก",
+        "EN": "Main Menu",
+        "CN": "Main Menu"
+      },
+      "icon": "mdi-routes",
+      "suffix": "cn",
+      "prefix": ""
+    },
+    {
+      "number": 12,
+      "title": {
+        "TH": "เมนูย่อย",
+        "EN": "Sub Menu",
+        "CN": "Sub Menu"
+      },
+      "icon": "mdi-routes",
+      "suffix": "cn",
+      "prefix": ""
+    }
+  ],
+  "restaurants": [
+    {
+      "number": 0,
+      "title": {
+        "TH": "ร้านอาหาร",
+        "EN": "Restaurant",
+        "CN": "餐廳"
+      },
+      "icon": "mdi-silverware",
+      "suffix": "",
+      "prefix": ""
+    },
+    {
+      "number": 1,
+      "title": {
+        "TH": "รูปภาพ",
+        "EN": "Image",
+        "CN": "Image"
+      },
+      "icon": "mdi-file-image",
+      "suffix": "",
+      "prefix": ""
+    },
+    {
+      "number": 2,
+      "title": {
+        "TH": "รหัส",
+        "EN": "Code",
+        "CN": "Code"
+      },
+      "icon": "mdi-qrcode-scan",
+      "suffix": "",
+      "prefix": ""
+    },
+    {
+      "number": 3,
+      "title": {
+        "TH": "ความนิยม",
+        "EN": "Rating",
+        "CN": "Rating"
+      },
+      "icon": "mdi-star",
+      "suffix": "",
+      "prefix": ""
+    },
+    {
+      "number": 4,
+      "title": {
+        "TH": "ชื่อร้านอาหาร (TH)",
+        "EN": "Restaurant Name (TH)",
+        "CN": "餐廳名稱 (TH)"
+      },
+      "icon": "mdi-text-recognition",
+      "suffix": "th",
+      "prefix": ""
+    },
+    {
+      "number": 5,
+      "title": {
+        "TH": "ชื่อร้านอาหาร (EN)",
+        "EN": "Restaurant Name (EN)",
+        "CN": "餐廳名稱 (EN)"
+      },
+      "icon": "mdi-text-recognition",
+      "suffix": "gb",
+      "prefix": ""
+    },
+    {
+      "number": 6,
+      "title": {
+        "TH": "ชื่อร้านอาหาร (CN)",
+        "EN": "Restaurant Name (CN)",
+        "CN": "餐廳名稱 (CN)"
+      },
+      "icon": "mdi-text-recognition",
+      "suffix": "cn",
+      "prefix": ""
+    },
+    {
+      "number": 7,
+      "title": {
+        "TH": "บริษัท",
+        "EN": "Company",
+        "CN": "Company"
+      },
+      "icon": "mdi-domain",
+      "suffix": "",
+      "prefix": ""
+    },
+    {
+      "number": 8,
+      "title": {
+        "TH": "หน่วยธุรกิจ",
+        "EN": "Business Unit",
+        "CN": "業務部"
+      },
+      "icon": "mdi-google-my-business",
+      "suffix": "",
+      "prefix": ""
+    },
+    {
+      "number": 9,
+      "title": {
+        "TH": "รายละเอียดร้านอาหาร (TH)",
+        "EN": "Detail (TH)",
+        "CN": "Detail (TH)"
+      },
+      "icon": "mdi-table-of-contents",
+      "suffix": "th",
+      "prefix": ""
+    },
+    {
+      "number": 10,
+      "title": {
+        "TH": "รายละเอียดร้านอาหาร (EN)",
+        "EN": "Detail (EN)",
+        "CN": "Detail (EN)"
+      },
+      "icon": "mdi-table-of-contents",
+      "suffix": "gb",
+      "prefix": ""
+    },
+    {
+      "number": 11,
+      "title": {
+        "TH": "รายละเอียดร้านอาหาร (CN)",
+        "EN": "Detail (CN)",
+        "CN": "Detail (CN)"
+      },
+      "icon": "mdi-table-of-contents",
+      "suffix": "cn",
+      "prefix": ""
+    },
+    {
+      "number": 12,
+      "title": {
+        "TH": "ราคาทุน",
+        "EN": "Cost",
+        "CN": "Cost"
+      },
+      "icon": "mdi-cash-multiple",
+      "suffix": "฿",
+      "prefix": ""
+    },
+    {
+      "number": 13,
+      "title": {
+        "TH": "ราคาขาย",
+        "EN": "Price",
+        "CN": "Price"
+      },
+      "icon": "mdi-cash-multiple",
+      "suffix": "฿",
+      "prefix": ""
+    },
+    {
+      "number": 14,
+      "title": {
+        "TH": "ราคา",
+        "EN": "Price",
+        "CN": "Price"
+      },
+      "icon": "mdi-cash-multiple",
+      "suffix": "฿",
+      "prefix": ""
+    }
+  ],
+  "transports": [
+    {
+      "number": 0,
+      "title": {
+        "TH": "รถเช่า/รถรับส่ง",
+        "EN": "Transport",
+        "CN": "運輸"
+      },
+      "icon": "mdi-car",
+      "suffix": "",
+      "prefix": ""
+    },
+    {
+      "number": 1,
+      "title": {
+        "TH": "รูปภาพ",
+        "EN": "Image",
+        "CN": "圖片"
+      },
+      "icon": "mdi-file-image",
+      "suffix": "",
+      "prefix": ""
+    },
+    {
+      "number": 2,
+      "title": {
+        "TH": "รหัส",
+        "EN": "Code",
+        "CN": "碼"
+      },
+      "icon": "mdi-qrcode-scan",
+      "suffix": "",
+      "prefix": ""
+    },
+    {
+      "number": 3,
+      "title": {
+        "TH": "ความนิยม",
+        "EN": "Rating",
+        "CN": "評分"
+      },
+      "icon": "mdi-star",
+      "suffix": "",
+      "prefix": ""
+    },
+    {
+      "number": 4,
+      "title": {
+        "TH": "ชื่อรถเช่า/รถรับส่ง (TH)",
+        "EN": "Transport Name (TH)",
+        "CN": "運輸名稱 (TH)"
+      },
+      "icon": "mdi-text-recognition",
+      "suffix": "th",
+      "prefix": ""
+    },
+    {
+      "number": 5,
+      "title": {
+        "TH": "ชื่อรถเช่า/รถรับส่ง (EN)",
+        "EN": "Transport Name (EN)",
+        "CN": "運輸名稱 (EN)"
+      },
+      "icon": "mdi-text-recognition",
+      "suffix": "gb",
+      "prefix": ""
+    },
+    {
+      "number": 6,
+      "title": {
+        "TH": "ชื่อรถเช่า/รถรับส่ง (CN)",
+        "EN": "Transport Name (CN)",
+        "CN": "運輸名稱 (CN)"
+      },
+      "icon": "mdi-text-recognition",
+      "suffix": "cn",
+      "prefix": ""
+    },
+    {
+      "number": 7,
+      "title": {
+        "TH": "บริษัท",
+        "EN": "Company",
+        "CN": "Company"
+      },
+      "icon": "mdi-domain",
+      "suffix": "",
+      "prefix": ""
+    },
+    {
+      "number": 8,
+      "title": {
+        "TH": "หน่วยธุรกิจ",
+        "EN": "Business Unit",
+        "CN": "業務部"
+      },
+      "icon": "mdi-google-my-business",
+      "suffix": "",
+      "prefix": ""
+    },
+    {
+      "number": 9,
+      "title": {
+        "TH": "จำนวนที่นั่ง",
+        "EN": "Seat",
+        "CN": "座位"
+      },
+      "icon": "mdi-seat-recline-normal",
+      "suffix": "Seat",
+      "prefix": ""
+    },
+    {
+      "number": 10,
+      "title": {
+        "TH": "รายละเอียดรถเช่า/รถรับส่ง (TH)",
+        "EN": "Detail (TH)",
+        "CN": "Detail (TH)"
+      },
+      "icon": "mdi-table-of-contents",
+      "suffix": "th",
+      "prefix": ""
+    },
+    {
+      "number": 11,
+      "title": {
+        "TH": "รายละเอียดรถเช่า/รถรับส่ง (EN)",
+        "EN": "Detail (EN)",
+        "CN": "Detail (EN)"
+      },
+      "icon": "mdi-table-of-contents",
+      "suffix": "gb",
+      "prefix": ""
+    },
+    {
+      "number": 12,
+      "title": {
+        "TH": "รายละเอียดรถเช่า/รถรับส่ง (CN)",
+        "EN": "Detail (CN)",
+        "CN": "Detail (CN)"
+      },
+      "icon": "mdi-table-of-contents",
+      "suffix": "cn",
+      "prefix": ""
+    }
+  ],
+  "contents": [
+    {
+      "number": 0,
+      "title": {
+        "TH": "เนื้อหาเว็บไซต์",
+        "EN": "Content",
+        "CN": "內容"
+      },
+      "icon": "mdi-table-of-contents",
+      "suffix": "",
+      "prefix": ""
+    },
+    {
+      "number": 1,
+      "title": {
+        "TH": "รูปภาพ",
+        "EN": "Image",
+        "CN": "圖片"
+      },
+      "icon": "mdi-file-image",
+      "suffix": "",
+      "prefix": ""
+    },
+    {
+      "number": 2,
+      "title": {
+        "TH": "รหัส",
+        "EN": "Code",
+        "CN": "碼"
+      },
+      "icon": "mdi-qrcode-scan",
+      "suffix": "",
+      "prefix": ""
+    },
+    {
+      "number": 3,
+      "title": {
+        "TH": "เรื่อง (TH)",
+        "EN": "Title (TH)",
+        "CN": "標題 (TH)"
+      },
+      "icon": "mdi-text-recognition",
+      "suffix": "th",
+      "prefix": ""
+    },
+    {
+      "number": 4,
+      "title": {
+        "TH": "เรื่อง (EN)",
+        "EN": "Title (EN)",
+        "CN": "標題 (EN)"
+      },
+      "icon": "mdi-text-recognition",
+      "suffix": "gb",
+      "prefix": ""
+    },
+    {
+      "number": 5,
+      "title": {
+        "TH": "เรื่อง (CN)",
+        "EN": "Title (CN)",
+        "CN": "標題 (CN)"
+      },
+      "icon": "mdi-text-recognition",
+      "suffix": "cn",
+      "prefix": ""
+    },
+    {
+      "number": 6,
+      "title": {
+        "TH": "Hilight",
+        "EN": "Hilight",
+        "CN": "突出"
+      },
+      "icon": "mdi-star",
+      "suffix": "",
+      "prefix": ""
+    },
+    {
+      "number": 7,
+      "title": {
+        "TH": "ความนิยม",
+        "EN": "Rating",
+        "CN": "評分"
+      },
+      "icon": "mdi-star",
+      "suffix": "",
+      "prefix": ""
+    },
+    {
+      "number": 8,
+      "title": {
+        "TH": "ลิ้ง",
+        "EN": "Link",
+        "CN": "鏈接"
+      },
+      "icon": "mdi-link-variant",
+      "suffix": "",
+      "prefix": ""
+    },
+    {
+      "number": 9,
+      "title": {
+        "TH": "เนื้อหา (TH)",
+        "EN": "Content (TH)",
+        "CN": "內容 (TH)"
+      },
+      "icon": "mdi-table-of-contents",
+      "suffix": "th",
+      "prefix": ""
+    },
+    {
+      "number": 10,
+      "title": {
+        "TH": "เนื้อหา (EN)",
+        "EN": "Content (EN)",
+        "CN": "內容 (EN)"
+      },
+      "icon": "mdi-table-of-contents",
+      "suffix": "gb",
+      "prefix": ""
+    },
+    {
+      "number": 11,
+      "title": {
+        "TH": "เนื้อหา (CN)",
+        "EN": "Content (CN)",
+        "CN": "內容 (CN)"
+      },
+      "icon": "mdi-table-of-contents",
+      "suffix": "cn",
+      "prefix": ""
+    },
+    {
+      "number": 12,
+      "title": {
+        "TH": "Lasted",
+        "EN": "Lasted",
+        "CN": "Lasted"
+      },
+      "icon": "mdi-update",
+      "suffix": "cn",
+      "prefix": ""
+    }
+  ],
+  "newsBlogs": [
+    {
+      "number": 0,
+      "title": {
+        "TH": "ข่าวสาร/Blog",
+        "EN": "News/Blog",
+        "CN": "新聞/博客"
+      },
+      "icon": "mdi-newspaper-variant-multiple-outline",
+      "suffix": "",
+      "prefix": ""
+    },
+    {
+      "number": 1,
+      "title": {
+        "TH": "รูปภาพ",
+        "EN": "Image",
+        "CN": "圖片"
+      },
+      "icon": "mdi-file-image",
+      "suffix": "",
+      "prefix": ""
+    },
+    {
+      "number": 2,
+      "title": {
+        "TH": "รหัส",
+        "EN": "Code",
+        "CN": "碼"
+      },
+      "icon": "mdi-qrcode-scan",
+      "suffix": "",
+      "prefix": ""
+    },
+    {
+      "number": 3,
+      "title": {
+        "TH": "ประเภท",
+        "EN": "Type",
+        "CN": "類型"
+      },
+      "icon": "mdi-format-list-bulleted-type",
+      "suffix": "th",
+      "prefix": ""
+    },
+    {
+      "number": 4,
+      "title": {
+        "TH": "เรื่อง (TH)",
+        "EN": "Title (TH)",
+        "CN": "標題 (TH)"
+      },
+      "icon": "mdi-text-recognition",
+      "suffix": "th",
+      "prefix": ""
+    },
+    {
+      "number": 5,
+      "title": {
+        "TH": "เรื่อง (EN)",
+        "EN": "Title (EN)",
+        "CN": "標題 (EN)"
+      },
+      "icon": "mdi-text-recognition",
+      "suffix": "gb",
+      "prefix": ""
+    },
+    {
+      "number": 6,
+      "title": {
+        "TH": "เรื่อง (CN)",
+        "EN": "Title (CN)",
+        "CN": "標題 (CN)"
+      },
+      "icon": "mdi-text-recognition",
+      "suffix": "cn",
+      "prefix": ""
+    },
+    {
+      "number": 7,
+      "title": {
+        "TH": "Hilight",
+        "EN": "Hilight",
+        "CN": "突出"
+      },
+      "icon": "mdi-star",
+      "suffix": "",
+      "prefix": ""
+    },
+    {
+      "number": 8,
+      "title": {
+        "TH": "ความนิยม",
+        "EN": "Rating",
+        "CN": "評分"
+      },
+      "icon": "mdi-star",
+      "suffix": "",
+      "prefix": ""
+    },
+    {
+      "number": 9,
+      "title": {
+        "TH": "ลิ้ง",
+        "EN": "Link",
+        "CN": "鏈接"
+      },
+      "icon": "mdi-link-variant",
+      "suffix": "",
+      "prefix": ""
+    },
+    {
+      "number": 10,
+      "title": {
+        "TH": "เนื้อหา (TH)",
+        "EN": "Content (TH)",
+        "CN": "內容 (TH)"
+      },
+      "icon": "mdi-table-of-contents",
+      "suffix": "th",
+      "prefix": ""
+    },
+    {
+      "number": 11,
+      "title": {
+        "TH": "เนื้อหา (EN)",
+        "EN": "Content (EN)",
+        "CN": "內容 (EN)"
+      },
+      "icon": "mdi-table-of-contents",
+      "suffix": "gb",
+      "prefix": ""
+    },
+    {
+      "number": 12,
+      "title": {
+        "TH": "เนื้อหา (CN)",
+        "EN": "Content (CN)",
+        "CN": "內容 (CN)"
+      },
+      "icon": "mdi-table-of-contents",
+      "suffix": "cn",
+      "prefix": ""
+    },
+    {
+      "number": 13,
+      "title": {
+        "TH": "Lasted",
+        "EN": "Lasted",
+        "CN": "Lasted"
+      },
+      "icon": "mdi-update",
+      "suffix": "cn",
+      "prefix": ""
+    }
+  ],
+  "packageIVF": [
+    {
+      "number": 0,
+      "title": {
+        "TH": "แพคเกจ IVF",
+        "EN": "IVF Package",
+        "CN": "IVF Package"
+      },
+      "icon": "mdi-package-variant",
+      "suffix": "",
+      "prefix": ""
+    },
+    {
+      "number": 1,
+      "title": {
+        "TH": "รูปภาพ",
+        "EN": "Image",
+        "CN": "Image"
+      },
+      "icon": "mdi-file-image",
+      "suffix": "",
+      "prefix": ""
+    },
+    {
+      "number": 2,
+      "title": {
+        "TH": "รหัส",
+        "EN": "Code",
+        "CN": "Code"
+      },
+      "icon": "mdi-qrcode-scan",
+      "suffix": "",
+      "prefix": ""
+    },
+    {
+      "number": 3,
+      "title": {
+        "TH": "ชื่อแพคเกจ (TH)",
+        "EN": "Package Name (TH)",
+        "CN": "包裹名字 (TH)"
+      },
+      "icon": "mdi-text-recognition",
+      "suffix": "th",
+      "prefix": ""
+    },
+    {
+      "number": 4,
+      "title": {
+        "TH": "ชื่อแพคเกจ (EN)",
+        "EN": "Package Name (EN)",
+        "CN": "包裹名字 (EN)"
+      },
+      "icon": "mdi-text-recognition",
+      "suffix": "gb",
+      "prefix": ""
+    },
+    {
+      "number": 5,
+      "title": {
+        "TH": "ชื่อแพคเกจ (CN)",
+        "EN": "Package Name (CN)",
+        "CN": "包裹名字 (CN)"
+      },
+      "icon": "mdi-text-recognition",
+      "suffix": "cn",
+      "prefix": ""
+    },
+    {
+      "number": 6,
+      "title": {
+        "TH": "ภาค",
+        "EN": "Geography",
+        "CN": "地理"
+      },
+      "icon": "mdi-map-marker",
+      "suffix": "",
+      "prefix": ""
+    },
+    {
+      "number": 7,
+      "title": {
+        "TH": "จังหวัด",
+        "EN": "Province",
+        "CN": "省"
+      },
+      "icon": "mdi-crosshairs-gps",
+      "suffix": "",
+      "prefix": ""
+    },
+    {
+      "number": 8,
+      "title": {
+        "TH": "ประเภท",
+        "EN": "Type",
+        "CN": "Type"
+      },
+      "icon": "mdi-cash",
+      "suffix": "฿",
+      "prefix": ""
+    },
+    {
+      "number": 9,
+      "title": {
+        "TH": "ชื่อ",
+        "EN": "Name",
+        "CN": "Name"
+      },
+      "icon": "mdi-cash",
+      "suffix": "฿",
+      "prefix": ""
+    },
+    {
+      "number": 10,
+      "title": {
+        "TH": "วัน",
+        "EN": "Days",
+        "CN": "Days"
+      },
+      "icon": "mdi-cash",
+      "suffix": "฿",
+      "prefix": ""
+    },
+    {
+      "number": 11,
+      "title": {
+        "TH": "ราคาต้นทุน",
+        "EN": "Cost",
+        "CN": "Cost"
+      },
+      "icon": "mdi-cash",
+      "suffix": "฿",
+      "prefix": ""
+    },
+    {
+      "number": 12,
+      "title": {
+        "TH": "ราคา",
+        "EN": "Price",
+        "CN": "Price"
+      },
+      "icon": "mdi-cash",
+      "suffix": "฿",
+      "prefix": ""
+    },
+    {
+      "number": 13,
+      "title": {
+        "TH": "ลดราคา",
+        "EN": "Discount",
+        "CN": "Discount"
+      },
+      "icon": "mdi-cash",
+      "suffix": "฿",
+      "prefix": ""
+    },
+    {
+      "number": 14,
+      "title": {
+        "TH": "ทั้งหมด",
+        "EN": "Total",
+        "CN": "Total"
+      },
+      "icon": "mdi-cash",
+      "suffix": "฿",
+      "prefix": ""
+    },
+    {
+      "number": 15,
+      "title": {
+        "TH": "รายละเอียด (TH)",
+        "EN": "Detail (TH)",
+        "CN": "Detail (TH)"
+      },
+      "icon": "mdi-table-of-contents",
+      "suffix": "th",
+      "prefix": ""
+    },
+    {
+      "number": 16,
+      "title": {
+        "TH": "รายละเอียด (EN)",
+        "EN": "Detail (EN)",
+        "CN": "Detail (EN)"
+      },
+      "icon": "mdi-table-of-contents",
+      "suffix": "gb",
+      "prefix": ""
+    },
+    {
+      "number": 17,
+      "title": {
+        "TH": "รายละเอียด (CN)",
+        "EN": "Detail (CN)",
+        "CN": "Detail (CN)"
+      },
+      "icon": "mdi-table-of-contents",
+      "suffix": "cn",
+      "prefix": ""
+    },
+    {
+      "number": 18,
+      "title": {
+        "TH": "โรงพยาบาล",
+        "EN": "Hospital",
+        "CN": "Hospital"
+      },
+      "icon": "mdi-hospital-building",
+      "suffix": "cn",
+      "prefix": ""
+    },
+    {
+      "number": 19,
+      "title": {
+        "TH": "หมอ",
+        "EN": "Doctor",
+        "CN": "Doctor"
+      },
+      "icon": "mdi-doctor",
+      "suffix": "cn",
+      "prefix": ""
+    }
+  ],
+  "countries": [
+    {
+      "number": 0,
+      "title": {
+        "TH": "ประเทศ",
+        "EN": "Country",
+        "CN": "Country"
+      },
+      "icon": "mdi-flag-checkered",
+      "suffix": "",
+      "prefix": ""
+    },
+    {
+      "number": 1,
+      "title": {
+        "TH": "ชื่อประเทศ (TH)",
+        "EN": "Country Name (TH)",
+        "CN": "國家 (TH)"
+      },
+      "icon": "mdi-text-recognition",
+      "suffix": "th",
+      "prefix": ""
+    },
+    {
+      "number": 2,
+      "title": {
+        "TH": "ชื่อประเทศ (EN)",
+        "EN": "Country Name (EN)",
+        "CN": "國家 (EN)"
+      },
+      "icon": "mdi-text-recognition",
+      "suffix": "gb",
+      "prefix": ""
+    },
+    {
+      "number": 3,
+      "title": {
+        "TH": "ชื่อประเทศ (CN)",
+        "EN": "Country Name (CN)",
+        "CN": "國家 (CN)"
+      },
+      "icon": "mdi-text-recognition",
+      "suffix": "cn",
+      "prefix": ""
+    }
+  ],
+  "geographies": [
+    {
+      "number": 0,
+      "title": {
+        "TH": "ภาค",
+        "EN": "Geography",
+        "CN": "地理"
+      },
+      "icon": "mdi-map-legend",
+      "suffix": "",
+      "prefix": ""
+    },
+    {
+      "number": 1,
+      "title": {
+        "TH": "ประเทศ",
+        "EN": "Country",
+        "CN": "國家"
+      },
+      "icon": "mdi-leaf-maple",
+      "suffix": "th",
+      "prefix": ""
+    },
+    {
+      "number": 2,
+      "title": {
+        "TH": "ชื่อภาค (TH)",
+        "EN": "Geography Name (TH)",
+        "CN": "地理 (TH)"
+      },
+      "icon": "mdi-text-recognition",
+      "suffix": "th",
+      "prefix": ""
+    },
+    {
+      "number": 3,
+      "title": {
+        "TH": "ชื่อภาค (EN)",
+        "EN": "Geography Name (EN)",
+        "CN": "地理 (EN)"
+      },
+      "icon": "mdi-text-recognition",
+      "suffix": "gb",
+      "prefix": ""
+    },
+    {
+      "number": 4,
+      "title": {
+        "TH": "ชื่อภาค (CN)",
+        "EN": "Geography Name (CN)",
+        "CN": "地理 (CN)"
+      },
+      "icon": "mdi-text-recognition",
+      "suffix": "cn",
+      "prefix": ""
+    }
+  ],
+  "provinces": [
+    {
+      "number": 0,
+      "title": {
+        "TH": "จังหวัด",
+        "EN": "Province",
+        "CN": "省"
+      },
+      "icon": "mdi-mapbox",
+      "suffix": "",
+      "prefix": ""
+    },
+    {
+      "number": 1,
+      "title": {
+        "TH": "ประเทศ",
+        "EN": "Country",
+        "CN": "國家"
+      },
+      "icon": "mdi-leaf-maple",
+      "suffix": "th",
+      "prefix": ""
+    },
+    {
+      "number": 2,
+      "title": {
+        "TH": "ภาค",
+        "EN": "Geography",
+        "CN": "地理"
+      },
+      "icon": "mdi-map-legend",
+      "suffix": "th",
+      "prefix": ""
+    },
+    {
+      "number": 3,
+      "title": {
+        "TH": "ชื่อจังหวัด (TH)",
+        "EN": "Province Name (TH)",
+        "CN": "國家 (TH)"
+      },
+      "icon": "mdi-text-recognition",
+      "suffix": "th",
+      "prefix": ""
+    },
+    {
+      "number": 4,
+      "title": {
+        "TH": "ชื่อจังหวัด (EN)",
+        "EN": "Province Name (EN)",
+        "CN": "國家 (EN)"
+      },
+      "icon": "mdi-text-recognition",
+      "suffix": "gb",
+      "prefix": ""
+    },
+    {
+      "number": 5,
+      "title": {
+        "TH": "ชื่อจังหวัด (CN)",
+        "EN": "Province Name (CN)",
+        "CN": "國家 (CN)"
+      },
+      "icon": "mdi-text-recognition",
+      "suffix": "cn",
+      "prefix": ""
+    }
+  ],
+  "districts": [
+    {
+      "number": 0,
+      "title": {
+        "TH": "อำเภอ",
+        "EN": "District",
+        "CN": "區"
+      },
+      "icon": "mdi-map-marker-path",
+      "suffix": "",
+      "prefix": ""
+    },
+    {
+      "number": 1,
+      "title": {
+        "TH": "ประเทศ",
+        "EN": "Country",
+        "CN": "國家"
+      },
+      "icon": "mdi-leaf-maple",
+      "suffix": "th",
+      "prefix": ""
+    },
+    {
+      "number": 2,
+      "title": {
+        "TH": "ภาค",
+        "EN": "Geography",
+        "CN": "地理"
+      },
+      "icon": "mdi-map-legend",
+      "suffix": "th",
+      "prefix": ""
+    },
+    {
+      "number": 3,
+      "title": {
+        "TH": "จังหวัด",
+        "EN": "Province",
+        "CN": "省"
+      },
+      "icon": "mdi-mapbox",
+      "suffix": "",
+      "prefix": ""
+    },
+    {
+      "number": 4,
+      "title": {
+        "TH": "ชื่ออำเภอ (TH)",
+        "EN": "District Name (TH)",
+        "CN": "省 (TH)"
+      },
+      "icon": "mdi-text-recognition",
+      "suffix": "th",
+      "prefix": ""
+    },
+    {
+      "number": 5,
+      "title": {
+        "TH": "ชื่ออำเภอ (EN)",
+        "EN": "District Name (EN)",
+        "CN": "省 (EN)"
+      },
+      "icon": "mdi-text-recognition",
+      "suffix": "gb",
+      "prefix": ""
+    },
+    {
+      "number": 6,
+      "title": {
+        "TH": "ชื่ออำเภอ (CN)",
+        "EN": "District Name (CN)",
+        "CN": "省 (CN)"
+      },
+      "icon": "mdi-text-recognition",
+      "suffix": "cn",
+      "prefix": ""
+    }
+  ],
+  "subDistricts": [
+    {
+      "number": 0,
+      "title": {
+        "TH": "ตำบล",
+        "EN": "Sub District",
+        "CN": "分地區"
+      },
+      "icon": "mdi-map-marker-star",
+      "suffix": "",
+      "prefix": ""
+    },
+    {
+      "number": 1,
+      "title": {
+        "TH": "ประเทศ",
+        "EN": "Country",
+        "CN": "國家"
+      },
+      "icon": "mdi-leaf-maple",
+      "suffix": "th",
+      "prefix": ""
+    },
+    {
+      "number": 2,
+      "title": {
+        "TH": "ภาค",
+        "EN": "Geography",
+        "CN": "地理"
+      },
+      "icon": "mdi-map-legend",
+      "suffix": "th",
+      "prefix": ""
+    },
+    {
+      "number": 3,
+      "title": {
+        "TH": "จังหวัด",
+        "EN": "Province",
+        "CN": "省"
+      },
+      "icon": "mdi-mapbox",
+      "suffix": "",
+      "prefix": ""
+    },
+    {
+      "number": 4,
+      "title": {
+        "TH": "อำเภอ",
+        "EN": "District",
+        "CN": "區"
+      },
+      "icon": "mdi-map-marker-path",
+      "suffix": "",
+      "prefix": ""
+    },
+    {
+      "number": 5,
+      "title": {
+        "TH": "ชื่อตำบล (TH)",
+        "EN": "Sub District Name (TH)",
+        "CN": "國家 (TH)"
+      },
+      "icon": "mdi-text-recognition",
+      "suffix": "th",
+      "prefix": ""
+    },
+    {
+      "number": 6,
+      "title": {
+        "TH": "ชื่อตำบล (EN)",
+        "EN": "Sub District Name (EN)",
+        "CN": "國家 (EN)"
+      },
+      "icon": "mdi-text-recognition",
+      "suffix": "gb",
+      "prefix": ""
+    },
+    {
+      "number": 7,
+      "title": {
+        "TH": "ชื่อตำบล (CN)",
+        "EN": "Sub District Name (CN)",
+        "CN": "國家 (CN)"
+      },
+      "icon": "mdi-text-recognition",
+      "suffix": "cn",
+      "prefix": ""
+    },
+    {
+      "number": 8,
+      "title": {
+        "TH": "รหัสไปรษณี",
+        "EN": "Zipcode",
+        "CN": "Zipcode"
+      },
+      "icon": "mdi-text-recognition",
+      "suffix": "cn",
+      "prefix": ""
+    }
+  ],
+  "eventLogs": [
+    {
+      "number": 0,
+      "title": {
+        "TH": "Event Logs",
+        "EN": "Event Logs",
+        "CN": "事件記錄"
+      },
+      "icon": "mdi-account-clock-outline",
+      "suffix": "",
+      "prefix": ""
+    },
+    {
+      "number": 1,
+      "title": {
+        "TH": "Date Time",
+        "EN": "Date Time",
+        "CN": "Date Time"
+      },
+      "icon": "mdi-calendar-clock",
+      "suffix": "th",
+      "prefix": ""
+    },
+    {
+      "number": 2,
+      "title": {
+        "TH": "IP",
+        "EN": "IP",
+        "CN": "IP"
+      },
+      "icon": "mdi-numeric",
+      "suffix": "th",
+      "prefix": ""
+    },
+    {
+      "number": 3,
+      "title": {
+        "TH": "Method",
+        "EN": "Method",
+        "CN": "Method"
+      },
+      "icon": "mdi-mapbox",
+      "suffix": "",
+      "prefix": ""
+    },
+    {
+      "number": 4,
+      "title": {
+        "TH": "Path",
+        "EN": "Path",
+        "CN": "Path"
+      },
+      "icon": "mdi-folder",
+      "suffix": "",
+      "prefix": ""
+    },
+    {
+      "number": 5,
+      "title": {
+        "TH": "Request Data",
+        "EN": "Request Data",
+        "CN": "Request Data"
+      },
+      "icon": "mdi-database-import",
+      "suffix": "th",
+      "prefix": ""
+    },
+    {
+      "number": 6,
+      "title": {
+        "TH": "Origin",
+        "EN": "Origin",
+        "CN": "Origin"
+      },
+      "icon": "mdi-ghost",
+      "suffix": "gb",
+      "prefix": ""
+    },
+    {
+      "number": 7,
+      "title": {
+        "TH": "User",
+        "EN": "User",
+        "CN": "User"
+      },
+      "icon": "mdi-account",
+      "suffix": "cn",
+      "prefix": ""
+    }
+  ],
+  "userPermissions": [
+    {
+      "number": 0,
+      "title": {
+        "TH": "ผู้ใช้งาน และสิทธิ์การใช้งาน",
+        "EN": "Users and Permission",
+        "CN": "用戶和權限"
+      },
+      "icon": "mdi-account",
+      "suffix": "",
+      "prefix": ""
+    },
+    {
+      "number": 1,
+      "title": {
+        "TH": "รหัส",
+        "EN": "Code",
+        "CN": "碼"
+      },
+      "icon": "mdi-qrcode-scan",
+      "suffix": "th",
+      "prefix": ""
+    },
+    {
+      "number": 2,
+      "title": {
+        "TH": "รูปภาพ",
+        "EN": "Image",
+        "CN": "圖片"
+      },
+      "icon": "mdi-file-image-outline",
+      "suffix": "th",
+      "prefix": ""
+    },
+    {
+      "number": 3,
+      "title": {
+        "TH": "ประเภท",
+        "EN": "Type",
+        "CN": "類型"
+      },
+      "icon": "mdi-format-list-bulleted-type",
+      "suffix": "",
+      "prefix": ""
+    },
+    {
+      "number": 4,
+      "title": {
+        "TH": "กลุ่มผู้ใช้งาน",
+        "EN": "User Group",
+        "CN": "用戶組"
+      },
+      "icon": "mdi-account-group",
+      "suffix": "",
+      "prefix": ""
+    },
+    {
+      "number": 5,
+      "title": {
+        "TH": "บริษัท",
+        "EN": "Company",
+        "CN": "公司"
+      },
+      "icon": "mdi-domain",
+      "suffix": "",
+      "prefix": ""
+    },
+    {
+      "number": 6,
+      "title": {
+        "TH": "หน่วยธุรกิจ",
+        "EN": "Business Unit",
+        "CN": "業務部"
+      },
+      "icon": "mdi-google-my-business",
+      "suffix": "",
+      "prefix": ""
+    },
+    {
+      "number": 7,
+      "title": {
+        "TH": "ชื่อผู้ใช้งาน",
+        "EN": "Username",
+        "CN": "Username"
+      },
+      "icon": "mdi-account",
+      "suffix": "",
+      "prefix": ""
+    },
+    {
+      "number": 8,
+      "title": {
+        "TH": "รหัสผ่าน",
+        "EN": "Password",
+        "CN": "Password"
+      },
+      "icon": "mdi-form-textbox-password",
+      "suffix": "",
+      "prefix": ""
+    },
+    {
+      "number": 9,
+      "title": {
+        "TH": "คำนำหน้า",
+        "EN": "Title Name",
+        "CN": "Title Name"
+      },
+      "icon": "mdi-closed-caption-outline",
+      "suffix": "",
+      "prefix": ""
+    },
+    {
+      "number": 10,
+      "title": {
+        "TH": "ชื่อ (TH)",
+        "EN": "First Name (TH)",
+        "CN": "名字 (TH)"
+      },
+      "icon": "mdi-text-recognition",
+      "suffix": "th",
+      "prefix": ""
+    },
+    {
+      "number": 11,
+      "title": {
+        "TH": "นามสกุล (TH)",
+        "EN": "Last Name (TH)",
+        "CN": "姓 (TH)"
+      },
+      "icon": "mdi-text-recognition",
+      "suffix": "th",
+      "prefix": ""
+    },
+    {
+      "number": 12,
+      "title": {
+        "TH": "ชื่อ (EN)",
+        "EN": "First Name (EN)",
+        "CN": "姓 (EN)"
+      },
+      "icon": "mdi-text-recognition",
+      "suffix": "gb",
+      "prefix": ""
+    },
+    {
+      "number": 13,
+      "title": {
+        "TH": "นามสกุล (EN)",
+        "EN": "Last Name (EN)",
+        "CN": "姓 (EN)"
+      },
+      "icon": "mdi-text-recognition",
+      "suffix": "gb",
+      "prefix": ""
+    },
+    {
+      "number": 14,
+      "title": {
+        "TH": "ชื่อ (CN)",
+        "EN": "First Name (CN)",
+        "CN": "姓 (CN)"
+      },
+      "icon": "mdi-text-recognition",
+      "suffix": "cn",
+      "prefix": ""
+    },
+    {
+      "number": 15,
+      "title": {
+        "TH": "นามสกุล (CN)",
+        "EN": "Last Name (CN)",
+        "CN": "姓 (CN)"
+      },
+      "icon": "mdi-text-recognition",
+      "suffix": "cn",
+      "prefix": ""
+    },
+    {
+      "number": 16,
+      "title": {
+        "TH": "รหัสบัตรประชาชน",
+        "EN": "ID Card",
+        "CN": "ID Card"
+      },
+      "icon": "mdi-card-account-details",
+      "suffix": "",
+      "prefix": ""
+    },
+    {
+      "number": 17,
+      "title": {
+        "TH": "ศาสนา",
+        "EN": "Religion",
+        "CN": "宗教"
+      },
+      "icon": "mdi-christianity",
+      "suffix": "",
+      "prefix": ""
+    },
+    {
+      "number": 18,
+      "title": {
+        "TH": "สัญชาติ",
+        "EN": "Nationality",
+        "CN": "國籍"
+      },
+      "icon": "mdi-account-check",
+      "suffix": "",
+      "prefix": ""
+    },
+    {
+      "number": 19,
+      "title": {
+        "TH": "เชื้อชาติ",
+        "EN": "Race",
+        "CN": "種族"
+      },
+      "icon": "mdi-account-check",
+      "suffix": "",
+      "prefix": ""
+    },
+    {
+      "number": 20,
+      "title": {
+        "TH": "อาชีพ",
+        "EN": "Occupation",
+        "CN": "佔用"
+      },
+      "icon": "mdi-tractor",
+      "suffix": "",
+      "prefix": ""
+    },
+    {
+      "number": 21,
+      "title": {
+        "TH": "วันที่เกิด",
+        "EN": "Birth Date",
+        "CN": "生日"
+      },
+      "icon": "mdi-cake-variant",
+      "suffix": "",
+      "prefix": ""
+    },
+    {
+      "number": 22,
+      "title": {
+        "TH": "เบอร์โทร",
+        "EN": "Phone No.",
+        "CN": "電話號碼"
+      },
+      "icon": "mdi-phone",
+      "suffix": "",
+      "prefix": ""
+    },
+    {
+      "number": 23,
+      "title": {
+        "TH": "เบอร์ต่อ",
+        "EN": "Phone Ext.",
+        "CN": "電話號碼"
+      },
+      "icon": "mdi-phone",
+      "suffix": "",
+      "prefix": ""
+    },
+    {
+      "number": 24,
+      "title": {
+        "TH": "แฟกซ์",
+        "EN": "Fax No.",
+        "CN": "傳真"
+      },
+      "icon": "mdi-fax",
+      "suffix": "",
+      "prefix": ""
+    },
+    {
+      "number": 25,
+      "title": {
+        "TH": "ต่อ",
+        "EN": "Ext No.",
+        "CN": "傳真"
+      },
+      "icon": "mdi-fax",
+      "suffix": "",
+      "prefix": ""
+    },
+    {
+      "number": 26,
+      "title": {
+        "TH": "มือถือ",
+        "EN": "Mobile No.",
+        "CN": "手機號碼。"
+      },
+      "icon": "mdi-cellphone-basic",
+      "suffix": "",
+      "prefix": ""
+    },
+    {
+      "number": 27,
+      "title": {
+        "TH": "อีเมล",
+        "EN": "Email",
+        "CN": "電子郵件"
+      },
+      "icon": "mdi-email",
+      "suffix": "",
+      "prefix": ""
+    },
+    {
+      "number": 28,
+      "title": {
+        "TH": "WeChat ID",
+        "EN": "WeChat ID",
+        "CN": "WeChat ID"
+      },
+      "icon": "mdi-wechat",
+      "suffix": "",
+      "prefix": ""
+    },
+    {
+      "number": 29,
+      "title": {
+        "TH": "Line ID",
+        "EN": "Line ID",
+        "CN": "Line ID"
+      },
+      "icon": "mdi-chat",
+      "suffix": "",
+      "prefix": ""
+    },
+    {
+      "number": 30,
+      "title": {
+        "TH": "Web Site",
+        "EN": "Web Site",
+        "CN": "Web Site"
+      },
+      "icon": "mdi-web",
+      "suffix": "",
+      "prefix": ""
+    },
+    {
+      "number": 31,
+      "title": {
+        "TH": "เพศ",
+        "EN": "Gender",
+        "CN": "性別"
+      },
+      "icon": "mdi-gender-transgender",
+      "suffix": "",
+      "prefix": ""
+    }
+  ],
+  "userGroups": [
+    {
+      "number": 0,
+      "title": {
+        "TH": "กลุ่มผู้ใช้งาน",
+        "EN": "User Group",
+        "CN": "用戶組"
+      },
+      "icon": "mdi-account-group",
+      "suffix": "",
+      "prefix": ""
+    },
+    {
+      "number": 1,
+      "title": {
+        "TH": "รหัส",
+        "EN": "Code",
+        "CN": "碼"
+      },
+      "icon": "mdi-qrcode-scan",
+      "suffix": "th",
+      "prefix": ""
+    },
+    {
+      "number": 3,
+      "title": {
+        "TH": "ชื่อกลุ่มผู้ใช้งาน (TH)",
+        "EN": "User Group Name (TH)",
+        "CN": "用戶組 (TH)"
+      },
+      "icon": "mdi-text-recognition",
+      "suffix": "th",
+      "prefix": ""
+    },
+    {
+      "number": 4,
+      "title": {
+        "TH": "ชื่อกลุ่มผู้ใช้งาน (EN)",
+        "EN": "User Group Name (EN)",
+        "CN": "用戶組 (EN)"
+      },
+      "icon": "mdi-text-recognition",
+      "suffix": "gb",
+      "prefix": ""
+    },
+    {
+      "number": 5,
+      "title": {
+        "TH": "ชื่อกลุ่มผู้ใช้งาน (CN)",
+        "EN": "User Group Name (CN)",
+        "CN": "用戶組 (CN)"
+      },
+      "icon": "mdi-text-recognition",
+      "suffix": "gb",
+      "prefix": ""
+    }
+  ]
+}

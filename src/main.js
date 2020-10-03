@@ -1,9 +1,15 @@
-import Vue from 'vue'
-import App from './App.vue'
-import './registerServiceWorker'
-import router from './router'
+import Vue from 'vue';
+import App from './App.vue';
+import './registerServiceWorker';
+import router from './router';
 
-Vue.config.productionTip = false
+import axios from "@/plugins/axios.js";
+import * as hp from "@/helpers/index.js";
+
+Vue.config.productionTip = false;
+
+Vue.prototype.$http = axios;
+Vue.prototype.$hp = hp;
 
 new Vue({
   router,
