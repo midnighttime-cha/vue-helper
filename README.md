@@ -1,4 +1,4 @@
-# vue-helper
+# Vue helper and axios plugins
 
 ## Project setup
 ```javascript
