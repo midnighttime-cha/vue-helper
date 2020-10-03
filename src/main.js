@@ -3,8 +3,8 @@ import App from './App.vue';
 import './registerServiceWorker';
 import router from './router';
 
-import axios from "@/plugins/axios.js";
-import * as hp from "@/helpers/index.js";
+import axios from "./plugins/axios.js";
+import * as hp from "./helpers/index.js";
 
 Vue.config.productionTip = false;
 
