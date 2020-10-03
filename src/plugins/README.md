@@ -1,4 +1,4 @@
-# Vue axios plugins
+# Vue axios interceptors
 
 ## Project setup
 ```javascript
